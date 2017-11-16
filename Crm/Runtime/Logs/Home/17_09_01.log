@@ -1,0 +1,3001 @@
+[ 2017-09-01T08:19:35+08:00 ] 183.232.90.65 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006809s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000637s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2017-09-01T08:19:35+08:00 ] 183.61.51.208 /Home/Xuanze?from=groupmessage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007449s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2017-09-01T08:19:36+08:00 ] 163.177.94.120 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005150s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005203s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-09-01T08:19:38+08:00 ] 183.61.51.208 /Home/Qingjie/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-09-01T08:19:39+08:00 ] 183.61.51.208 /Home/Control/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0016s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-09-01T08:19:40+08:00 ] 183.61.51.208 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0015s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0157s ]
+
+[ 2017-09-01T08:19:43+08:00 ] 183.61.51.208 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '葵涌' AND `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0664s ]
+
+[ 2017-09-01T08:19:49+08:00 ] 183.61.51.208 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '葵涌' AND `state` = 0 ORDER BY id desc LIMIT 5,5   [ RunTime:0.0025s ]
+
+[ 2017-09-01T09:06:49+08:00 ] 113.97.56.205 /Home/Xuanze?from=singlemessage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005301s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005353s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-09-01T09:06:51+08:00 ] 113.97.56.205 /Home/Qingjie/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-09-01T09:06:51+08:00 ] 113.97.56.205 /Home/Control/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0014s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012862s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2017-09-01T09:06:52+08:00 ] 113.97.56.205 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T09:06:55+08:00 ] 113.97.56.205 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '葵涌' AND `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0029s ]
+
+[ 2017-09-01T09:07:00+08:00 ] 113.97.56.205 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0011s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0008s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '葵涌' AND `state` = 0 ORDER BY id desc LIMIT 5,5   [ RunTime:0.0043s ]
+
+[ 2017-09-01T09:11:17+08:00 ] 117.136.40.182 /Home/Xuanze?from=groupmessage&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005498s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-09-01T09:11:19+08:00 ] 117.136.40.182 /Home/Qingjie/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-09-01T09:11:20+08:00 ] 117.136.40.182 /Home/Control/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0011s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010313s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-09-01T09:11:21+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T09:11:25+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 5,5   [ RunTime:0.0004s ]
+
+[ 2017-09-01T09:11:41+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 10,5   [ RunTime:0.0004s ]
+
+[ 2017-09-01T09:11:45+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 15,5   [ RunTime:0.0006s ]
+
+[ 2017-09-01T09:11:49+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 20,5   [ RunTime:0.0007s ]
+
+[ 2017-09-01T09:11:53+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 25,5   [ RunTime:0.0009s ]
+
+[ 2017-09-01T09:11:58+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 30,5   [ RunTime:0.0018s ]
+
+[ 2017-09-01T09:12:05+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 35,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T09:12:09+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0011s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0007s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 40,5   [ RunTime:0.0013s ]
+
+[ 2017-09-01T09:12:15+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0012s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 45,5   [ RunTime:0.0024s ]
+
+[ 2017-09-01T09:12:21+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 50,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T09:13:26+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 55,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T09:13:32+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0035s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 60,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T09:13:34+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 65,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T09:13:35+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 70,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T09:13:59+08:00 ] 117.136.40.182 /Home/Xuanze?from=singlemessage&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007784s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-09-01T09:14:12+08:00 ] 117.136.40.182 /Home/Qingjie/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-09-01T09:14:12+08:00 ] 117.136.40.182 /Home/Control/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0081s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008980s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-09-01T09:14:13+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T09:14:19+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 5,5   [ RunTime:0.0004s ]
+
+[ 2017-09-01T09:14:36+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0005s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 10,5   [ RunTime:0.0005s ]
+
+[ 2017-09-01T09:14:42+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 15,5   [ RunTime:0.0007s ]
+
+[ 2017-09-01T09:14:49+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 20,5   [ RunTime:0.0007s ]
+
+[ 2017-09-01T09:14:54+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 25,5   [ RunTime:0.0009s ]
+
+[ 2017-09-01T09:14:59+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0040s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 30,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T09:15:06+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0065s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 35,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T09:15:11+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 40,5   [ RunTime:0.0012s ]
+
+[ 2017-09-01T09:15:15+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 45,5   [ RunTime:0.0015s ]
+
+[ 2017-09-01T09:15:19+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 50,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T09:15:28+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0011s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 55,5   [ RunTime:0.0015s ]
+
+[ 2017-09-01T09:15:33+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0036s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 60,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T09:15:36+08:00 ] 117.136.40.182 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 65,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T10:15:59+08:00 ] 123.66.35.39 /Home/Xuanze?from=message&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005575s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-09-01T10:16:01+08:00 ] 123.66.35.39 /Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005760s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005814s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2017-09-01T10:16:12+08:00 ] 123.66.35.39 /Home/Index/Login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0207s ]
+SQL: SELECT * FROM `think_user` WHERE `username` = '骆周怡' AND `password` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-09-01T10:16:13+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008533s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-09-01T10:16:14+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T10:16:15+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 1 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0025s ]
+
+[ 2017-09-01T10:16:17+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0047s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 2 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T10:16:20+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T10:16:21+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T10:16:23+08:00 ] 123.66.35.39 /Home/Control/daifankuixq/id/1658
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1658 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1658 ORDER BY id desc  [ RunTime:0.0165s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006828s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-09-01T10:16:29+08:00 ] 123.66.35.39 /Home/Control/edit/id/1658
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1658 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-09-01T10:16:39+08:00 ] 123.66.35.39 /Home/Control/daifankuixq/id/1656
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1656 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1656 ORDER BY id desc  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-09-01T10:16:43+08:00 ] 123.66.35.39 /Home/Control/daifankuixq/id/1657
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0008s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1657 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1657 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006913s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-09-01T10:16:46+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 1 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0025s ]
+
+[ 2017-09-01T10:16:48+08:00 ] 123.66.35.39 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007230s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-09-01T10:16:49+08:00 ] 117.185.27.114 /Home/Control/daifankuixq/id/1656
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+
+[ 2017-09-01T10:17:51+08:00 ] 123.66.35.39 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=09 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0021s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('大鹏','旱塘仔路','0','垃圾满溢#','1504195200','1504195200','骆周怡','/upload/20170901101751_.jpeg','/upload/20170901101751_.jpeg','1709001') [ RunTime:0.0003s ]
+
+[ 2017-09-01T10:17:52+08:00 ] 123.66.35.39 /Home/Control/addsuccess/id/1659
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1659 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004946s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-09-01T10:17:54+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008748s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-09-01T10:17:54+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T10:20:53+08:00 ] 117.185.27.114 /Home/Control/addsuccess/id/1659
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004322s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004361s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+
+[ 2017-09-01T12:23:12+08:00 ] 183.61.51.199 /Home/Xuanze?from=groupmessage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-09-01T12:23:18+08:00 ] 183.61.51.199 /Home/Qingjie/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-09-01T12:23:19+08:00 ] 183.61.52.70 /Home/Control/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0014s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008686s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008727s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-09-01T12:23:20+08:00 ] 183.61.51.199 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T12:23:27+08:00 ] 183.61.51.199 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '南澳' AND `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T12:23:31+08:00 ] 183.61.51.199 /Home/Control/daifankuixq/id/1654
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1654 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1654 ORDER BY id desc  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006254s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006291s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-09-01T12:23:39+08:00 ] 183.61.51.199 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '南澳' AND `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0009s ]
+
+[ 2017-09-01T12:23:40+08:00 ] 117.185.27.115 /Home/Control/daifankuixq/id/1654
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004420s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+
+[ 2017-09-01T12:23:43+08:00 ] 183.61.51.199 /Home/Control/daifankuixq/id/1653
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1653 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1653 ORDER BY id desc  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006237s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-09-01T12:23:50+08:00 ] 183.61.52.70 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '南澳' AND `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0010s ]
+
+[ 2017-09-01T12:23:57+08:00 ] 183.61.51.199 /Home/Control/daifankuixq/id/1644
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1644 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1644 ORDER BY id desc  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006272s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-09-01T12:24:03+08:00 ] 183.61.51.199 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '南澳' AND `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0009s ]
+
+[ 2017-09-01T12:24:07+08:00 ] 183.61.51.199 /Home/Control/daifankuixq/id/1620
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1620 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1620 ORDER BY id desc  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-09-01T12:24:11+08:00 ] 183.61.52.70 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '南澳' AND `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0009s ]
+
+[ 2017-09-01T12:24:16+08:00 ] 183.61.51.199 /Home/Qingjie/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-09-01T12:24:16+08:00 ] 183.61.52.70 /Home/Control/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-09-01T12:24:17+08:00 ] 183.61.51.199 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T12:24:20+08:00 ] 183.61.51.199 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '葵涌' AND `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0025s ]
+
+[ 2017-09-01T12:24:22+08:00 ] 183.61.51.199 /Home/Control/daifankuixq/id/1656
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1656 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1656 ORDER BY id desc  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006442s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-09-01T12:24:27+08:00 ] 183.61.51.199 /Home/Control/zhenggaitijiao/id/1656
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0012s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`place`,`question`,`id`,`order`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1656 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008222s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008262s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-09-01T12:24:51+08:00 ] 183.61.51.199 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '葵涌' AND `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0026s ]
+
+[ 2017-09-01T15:03:37+08:00 ] 106.11.226.204 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-09-01T16:19:12+08:00 ] 123.66.35.39 /Home/Xuanze?from=message&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005140s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005520s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-09-01T16:19:14+08:00 ] 123.66.35.39 /Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005426s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005479s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-09-01T16:19:29+08:00 ] 123.66.35.39 /Home/Index/Login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `think_user` WHERE `username` = '骆周怡' AND `password` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:19:30+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0017s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008519s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-09-01T16:19:31+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0020s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:19:33+08:00 ] 123.66.35.39 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-09-01T16:20:07+08:00 ] 123.66.35.39 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=09 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','斜下村','0','垃圾散落#','1504195200','1504195200','骆周怡','/upload/20170901162007_.jpeg','/upload/20170901162007_.jpeg','1709002') [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:20:08+08:00 ] 123.66.35.39 /Home/Control/addsuccess/id/1660
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1660 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004707s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-09-01T16:20:09+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008429s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-09-01T16:20:10+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:20:11+08:00 ] 123.66.35.39 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-09-01T16:20:20+08:00 ] 117.185.27.113 /Home/Control/addsuccess/id/1660
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004399s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+
+[ 2017-09-01T16:20:41+08:00 ] 123.66.35.39 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=09 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','斜下村64','0','地面不洁#','1504195200','1504195200','骆周怡','/upload/20170901162041_.jpeg','/upload/20170901162041_.jpeg','1709003') [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:20:42+08:00 ] 123.66.35.39 /Home/Control/addsuccess/id/1661
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1661 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004515s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004555s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-09-01T16:20:43+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-09-01T16:20:44+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:20:45+08:00 ] 123.66.35.39 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006745s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006787s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-09-01T16:21:14+08:00 ] 123.66.35.39 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=09 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','富民路','0','绿化垃圾处理不及时#','1504195200','1504195200','骆周怡','/upload/20170901162114_.jpeg','/upload/20170901162114_.jpeg','1709004') [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:21:15+08:00 ] 123.66.35.39 /Home/Control/addsuccess/id/1662
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1662 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-09-01T16:21:16+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008651s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-09-01T16:21:17+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:21:19+08:00 ] 123.66.35.39 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-09-01T16:21:53+08:00 ] 123.66.35.39 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=09 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','马坑村8','0','大件垃圾处理不及时#','1504195200','1504195200','骆周怡','/upload/20170901162153_.jpeg','/upload/20170901162153_.jpeg','1709005') [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:21:54+08:00 ] 123.66.35.39 /Home/Control/addsuccess/id/1663
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1663 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2017-09-01T16:21:55+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-09-01T16:21:56+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:21:57+08:00 ] 123.66.35.39 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006637s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-09-01T16:22:05+08:00 ] 117.185.27.114 /Home/Control/addsuccess/id/1663
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+
+[ 2017-09-01T16:22:28+08:00 ] 123.66.35.39 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=09 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','枫南路','0','大件垃圾处理不及时#','1504195200','1504195200','骆周怡','/upload/20170901162228_.jpeg','/upload/20170901162228_.jpeg','1709006') [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:22:29+08:00 ] 123.66.35.39 /Home/Control/addsuccess/id/1664
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1664 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007251s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007328s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2017-09-01T16:22:30+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008076s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008116s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-09-01T16:22:31+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0005s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:22:32+08:00 ] 123.66.35.39 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006581s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006620s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-09-01T16:22:40+08:00 ] 117.185.27.115 /Home/Control/addsuccess/id/1664
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005524s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005580s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+
+[ 2017-09-01T16:22:59+08:00 ] 123.66.35.39 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=09 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','枫南路25','0','垃圾散落#','1504195200','1504195200','骆周怡','/upload/20170901162259_.jpeg','/upload/20170901162259_.jpeg','1709007') [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:23:00+08:00 ] 123.66.35.39 /Home/Control/addsuccess/id/1665
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1665 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004638s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004677s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-09-01T16:23:01+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008391s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-09-01T16:23:03+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:23:03+08:00 ] 123.66.35.39 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006661s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006701s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-09-01T16:23:36+08:00 ] 123.66.35.39 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=09 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','欧苏园','0','大件垃圾处理不及时#','1504195200','1504195200','骆周怡','/upload/20170901162336_.jpeg','/upload/20170901162336_.jpeg','1709008') [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:23:36+08:00 ] 123.66.35.39 /Home/Control/addsuccess/id/1666
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1666 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004688s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-09-01T16:23:38+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0011s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008317s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-09-01T16:23:38+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0008s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:23:40+08:00 ] 123.66.35.39 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007759s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007834s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-09-01T16:23:46+08:00 ] 117.185.27.113 /Home/Control/addsuccess/id/1666
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004467s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+
+[ 2017-09-01T16:24:13+08:00 ] 123.66.35.39 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=09 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','大岭吓西区27','0','垃圾散落#','1504195200','1504195200','骆周怡','/upload/20170901162412_.jpeg','/upload/20170901162412_.jpeg','1709009') [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:24:13+08:00 ] 123.66.35.39 /Home/Control/addsuccess/id/1667
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1667 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006458s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2017-09-01T16:24:15+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008561s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008603s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-09-01T16:24:15+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0008s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:24:17+08:00 ] 123.66.35.39 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007068s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007122s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-09-01T16:24:50+08:00 ] 123.66.35.39 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=09 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0035s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','大领吓西区20','0','工业垃圾处理不及时#','1504195200','1504195200','骆周怡','/upload/20170901162450_.jpeg','/upload/20170901162450_.jpeg','1709010') [ RunTime:0.0004s ]
+
+[ 2017-09-01T16:24:51+08:00 ] 123.66.35.39 /Home/Control/addsuccess/id/1668
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1668 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004849s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-09-01T16:24:52+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008598s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008641s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-09-01T16:24:53+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0005s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:24:54+08:00 ] 123.66.35.39 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006684s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006724s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-09-01T16:25:00+08:00 ] 117.185.27.113 /Home/Control/addsuccess/id/1668
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004661s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004724s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-09-01T16:25:20+08:00 ] 123.66.35.39 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=09 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0024s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','教育路','0','大件垃圾处理不及时#','1504195200','1504195200','骆周怡','/upload/20170901162520_.jpeg','/upload/20170901162520_.jpeg','1709011') [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:25:21+08:00 ] 123.66.35.39 /Home/Control/addsuccess/id/1669
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1669 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004527s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004567s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-09-01T16:25:23+08:00 ] 123.66.35.39 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008217s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008258s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-09-01T16:25:24+08:00 ] 123.66.35.39 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0005s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T16:28:11+08:00 ] 101.226.102.97 /Home/Control/addsuccess/id/1662
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004428s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+
+[ 2017-09-01T16:28:50+08:00 ] 117.185.27.113 /Home/Control/addsuccess/id/1667
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004659s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004706s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+
+[ 2017-09-01T18:11:02+08:00 ] 117.136.31.241 /Home/Xuanze?from=message&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2017-09-01T18:11:04+08:00 ] 117.136.31.241 /Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006067s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-09-01T18:11:13+08:00 ] 117.136.31.241 /Home/Index/Login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_user` WHERE `username` = '骆周怡' AND `password` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-09-01T18:11:14+08:00 ] 117.136.31.241 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008646s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-09-01T18:11:14+08:00 ] 117.136.31.241 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T18:11:18+08:00 ] 117.136.31.241 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0008s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 5,5   [ RunTime:0.0005s ]
+
+[ 2017-09-01T18:11:22+08:00 ] 117.136.31.241 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 2 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T18:11:25+08:00 ] 117.136.31.241 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 1 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0024s ]
+
+[ 2017-09-01T18:11:27+08:00 ] 117.136.31.241 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 1 ORDER BY id desc LIMIT 5,5   [ RunTime:0.0024s ]
+
+[ 2017-09-01T18:11:29+08:00 ] 117.136.31.241 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 1 ORDER BY id desc LIMIT 10,5   [ RunTime:0.0024s ]
+
+[ 2017-09-01T18:11:34+08:00 ] 117.136.31.241 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T18:11:36+08:00 ] 117.136.31.241 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 5,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T18:11:39+08:00 ] 117.136.31.241 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0005s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 10,5   [ RunTime:0.0003s ]
+
+[ 2017-09-01T18:11:42+08:00 ] 117.136.31.241 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 15,5   [ RunTime:0.0004s ]
+
+[ 2017-09-01T18:11:45+08:00 ] 117.136.31.241 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 20,5   [ RunTime:0.0005s ]
+

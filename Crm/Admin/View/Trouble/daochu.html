@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>后台管理</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/main.css"/>
+    <script type="text/javascript" src="__PUBLIC__/js/libs/modernizr.min.js"></script>
+</head>
+<body>
+<!--引入公共head-->
+<include file="Public/head" /> 
+
+
+<div class="container clearfix">
+
+
+<!--引入公共sidebar-->
+<include file="Public/left" /> 
+
+    <div class="main-wrap">
+
+        <div class="crumb-wrap">
+            <div class="crumb-list"><i class="icon-font"></i><a href="__MODULE__/Index">首页</a><span class="crumb-step">&gt;</span><span class="crumb-name">全部数据/导出</span></div>
+        </div>
+        <div class="search-wrap">
+          <div class="search-content">
+
+                               
+                <form  action="__CONTROLLER__/daochu" method="post">
+                    <table class="search-tab">
+                        <tr>
+                            <th width="70">开始日期:</th>
+                            <td><input class="common-text" placeholder="" name="start" value="" id="" type="date"></td>
+                            <th width="70">结束日期:</th>
+                            <td><input class="common-text" placeholder="" name="end" value="" id="" type="date"></td>
+                            
+                            
+                            
+                            <td>
+                            	<select name="state" class="common-select">
+                                	<option   value="4">全部</option>
+                                	<option   value="0">待整改</option>
+                                	<option   value="1">待审核</option>
+                                	<option   value="2">已完成</option>
+
+                                </select>
+                            </td>                            
+                            <td><input class="btn btn-primary btn2" name="sub" value="导出" type="submit"></td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        </div>
+        
+        
+        
+        
+
+    </div>
+    <!--/main-->
+</div>
+</body>
+</html>

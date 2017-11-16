@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>后台管理</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/main.css"/>
+    <script type="text/javascript" src="__PUBLIC__/js/libs/modernizr.min.js"></script>
+</head>
+<body>
+<!--引入公共head-->
+<include file="Public/head" /> 
+
+
+<div class="container clearfix">
+
+
+<!--引入公共sidebar-->
+<include file="Public/left" /> 
+
+    <div class="main-wrap">
+
+        <div class="crumb-wrap">
+            <div class="crumb-list"><i class="icon-font"></i><a href="__MODULE__/Index">首页</a><span class="crumb-step">&gt;</span><span class="crumb-name">搜索结果</span></div>
+        </div>
+        <div class="search-wrap">
+          <div class="search-content">
+                <form  action="__CONTROLLER__/search" method="post">
+                    <table class="search-tab">
+                        <tr>
+                            <th width="70">关键字:</th>
+                            <td><input class="common-text" placeholder="输入内容" name="name" value="" id="" type="text"></td>
+                            <td>
+                            	<select name="model" class="common-select">
+                                	<option   value="1">编号查询</option>
+                                	<option   value="2">用户查询</option>
+                                </select>
+                            </td>                            
+                            <td><input class="btn btn-primary btn2" name="sub" value="查询" type="submit"></td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        </div>
+        <div class="result-wrap">
+            <form name="myform" id="myform" method="post" action="__CONTROLLER__/sort">
+                <div class="result-title">
+                    <div class="result-list">
+
+
+                    </div>
+                </div>
+                <div class="result-content">
+                    <table class="result-tab" width="100%">
+                        <tr>
+
+
+							<th>编号</th>
+                            <th>办事处</th>
+                            <th>地点</th>
+                            <th>问题</th>
+                            <th>创建用户</th>
+                            <th>提交时间</th>
+                            <th>操作</th>
+                        </tr>
+                        
+                        <volist name="list" id="vo">
+                        
+                        <tr>
+                            <td width="4%">
+								<{$vo.order}>
+                            </td>
+                            <td><{$vo.office}></td>
+                            <td><{$vo.place}></td>
+                            <td>
+          <?php 
+        
+        $str=$vo['question'];
+        
+        $newstr = substr($str,0,strlen($str)-1); 
+        
+
+        
+        $hello = explode('#',$newstr);
+        
+        
+        for($i=0;$i<count($hello);$i++){
+        ?>
+		
+        问题<?php echo $i+1;  ?>：<?php   echo $hello[$i].'<br/>';     ?>
+        
+        <?php
+        }
+        ?>
+                            </td>
+                            <td><{$vo.adduser}></td>
+                            <td><?php  echo date('Y-m-d',$vo['addtime']);   ?></td>
+<!--                            <td><img src="<{$vo.firstimg}>"></td>-->
+                            <td width="10%">
+                                <a class="link-update" href="__CONTROLLER__/sview/id/<{$vo.id}>">查看详情</a>
+                                <a class="link-del" onClick="return confirm('你确定要删除吗?')"href="__CONTROLLER__/del/id/<{$vo.id}>">删除</a>
+                            </td>
+                        </tr>
+					   </volist>
+                    </table>
+                   <div class="list-page"><{$page}></div>
+<div class="crumb-list"><i class="icon-font">&#xe021;</i><span class="crumb-name"> :检测人员已经提交的问题,等待清洁进行反馈</span></div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!--/main-->
+</div>
+</body>
+</html>

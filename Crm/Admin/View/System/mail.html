@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>后台管理</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/main.css"/>
+    <script type="text/javascript" src="__PUBLIC__/js/libs/modernizr.min.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/js/Commonaxja.js"></script>    
+</head>
+<body>
+<!--引入公共head-->
+<include file="Public/head" /> 
+
+
+<div class="container clearfix">
+
+
+<!--引入公共sidebar-->
+<include file="Public/left" /> 
+
+    <div class="main-wrap">
+
+        <div class="crumb-wrap">
+            <div class="crumb-list"><i class="icon-font"></i><a href="/jscss/admin/design/">首页</a><span class="crumb-step">&gt;</span><a class="crumb-name" href="/jscss/admin/design/">系统设置</a><span class="crumb-step">&gt;</span><span>邮箱设置</span></div>
+        </div>
+        <div class="result-wrap">
+            <div class="result-content">
+                <form action="" method="post" id="myform" name="myform" enctype="multipart/form-data">
+                	<input type="hidden" name="id" value="{$mailres.id}">
+                    <table class="insert-tab" width="100%">
+                    
+                        <tbody>
+                        
+                            <tr>
+                                <th><i class="require-red">*</i>SMTP服务器：</th>
+                                <td>
+                                    <input class="common-text required" id="smtp" name="smtp" size="50" value="{$mailres.smtp}" type="text">
+                                </td>
+                            </tr>
+                            
+                            <tr>
+                                <th><i class="require-red">*</i>邮箱帐号：</th>
+                                <td>
+                                    <input class="common-text required" id="user" name="user" size="50" value="{$mailres.user}" type="text">
+                                </td>
+                            </tr>
+                            
+                            <tr>
+                                <th><i class="require-red">*</i>邮箱密码：</th>
+                                <td>
+                                    <input class="common-text required" id="pass" name="pass" size="50" value="{$mailres.pass}" type="text">
+                                </td>
+                            </tr>
+                            
+                            
+                            <tr>
+                                <th><i class="require-red">*</i>来源名称：</th>
+                                <td>
+                                    <input class="common-text required" id="from" name="from" size="50" value="{$mailres.from}" type="text">
+                                </td>
+                            </tr>
+                            
+                            
+
+                           
+
+                            
+                            
+
+                            
+       
+                                                    
+                            <tr>
+                                <th></th>
+                                <td>
+                                    <input class="btn btn-primary btn6 mr10" value="保存" type="submit">
+                                    <input class="btn btn6" onclick="history.go(-1)" value="返回" type="button">
+                                </td>
+                            </tr>
+                        </tbody>
+                   
+                        
+                        </table>
+                        <br/>
+                        <div class="crumb-list"><i class="icon-font">&#xe021;</i><span class="crumb-name"> : 邮箱功能主要用于用户自助找回密码,添加的邮箱帐号需要开启SMTP服务才能正常服务.</span></div><strong></strong>
+                        
+                </form>
+
+               
+            </div>
+            
+        </div>
+        
+
+    </div>
+    <!--/main-->
+</div>
+</body>
+</html>

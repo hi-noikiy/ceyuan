@@ -1,0 +1,2336 @@
+[ 2017-10-27T14:21:21+08:00 ] 112.97.226.212 /Home/Xuanze?from=message&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006485s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006829s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000647s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2017-10-27T14:21:24+08:00 ] 112.97.226.212 /Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007092s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-10-27T14:21:33+08:00 ] 112.97.226.212 /Home/Index/Login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `think_user` WHERE `username` = '骆周怡' AND `password` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-27T14:21:34+08:00 ] 112.97.226.212 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0021s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009483s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-10-27T14:21:35+08:00 ] 112.97.226.212 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0023s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0019s ]
+
+[ 2017-10-27T14:21:39+08:00 ] 112.97.226.212 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0008s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008288s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-10-27T14:21:44+08:00 ] 117.185.27.114 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004939s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+
+[ 2017-10-27T14:22:13+08:00 ] 112.97.226.212 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=10 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0217s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0004s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('大鹏','第一工业区垃圾屋','0','地面散落垃圾#','1509033600','1509033600','骆周怡','/upload/20171027142212_.jpeg','/upload/20171027142212_.jpeg','1710240') [ RunTime:0.0003s ]
+
+[ 2017-10-27T14:22:13+08:00 ] 112.97.226.212 /Home/Control/addsuccess/id/1978
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1978 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-10-27T14:22:15+08:00 ] 112.97.226.212 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008689s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-10-27T14:22:15+08:00 ] 112.97.226.212 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0004s ]
+
+[ 2017-10-27T14:22:16+08:00 ] 112.97.226.212 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007074s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007118s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-10-27T14:22:23+08:00 ] 120.204.17.69 /Home/Control/addsuccess/id/1978
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004499s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004552s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000218s ]
+
+[ 2017-10-27T14:23:43+08:00 ] 112.97.226.212 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=10 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0036s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('大鹏','花树尾垃圾收集点','0','垃圾满溢#周围堆放杂物#','1509033600','1509033600','骆周怡','/upload/20171027142342_.jpeg','/upload/20171027142342_.jpeg','1710241') [ RunTime:0.0004s ]
+
+[ 2017-10-27T14:23:43+08:00 ] 112.97.226.212 /Home/Control/addsuccess/id/1979
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1979 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-10-27T14:23:54+08:00 ] 120.204.17.46 /Home/Control/addsuccess/id/1979
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004433s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004472s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+
+[ 2017-10-27T16:34:33+08:00 ] 112.97.59.217 /Home/Xuanze?from=message&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-10-27T16:34:35+08:00 ] 112.97.59.217 /Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005591s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-10-27T16:34:42+08:00 ] 112.97.59.217 /Home/Index/Login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_user` WHERE `username` = '骆周怡' AND `password` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-27T16:34:42+08:00 ] 112.97.59.217 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008178s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-10-27T16:34:43+08:00 ] 112.97.59.217 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0012s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0004s ]
+
+[ 2017-10-27T16:34:44+08:00 ] 112.97.59.217 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-10-27T16:34:54+08:00 ] 117.185.27.114 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004411s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+
+[ 2017-10-27T16:35:30+08:00 ] 112.97.59.217 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=10 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0042s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('大鹏','龙岐垃圾收集点','0','垃圾满溢#','1509033600','1509033600','骆周怡','/upload/20171027163529_.jpeg','/upload/20171027163529_.jpeg','1710242') [ RunTime:0.0003s ]
+
+[ 2017-10-27T16:35:30+08:00 ] 112.97.59.217 /Home/Control/addsuccess/id/1980
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1980 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004844s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-10-27T16:35:31+08:00 ] 112.97.59.217 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008227s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008268s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-10-27T16:35:32+08:00 ] 112.97.59.217 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T16:35:33+08:00 ] 112.97.59.217 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007513s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007559s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-10-27T16:35:54+08:00 ] 112.97.59.217 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=10 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0034s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('葵涌','沙浦村垃圾收集点','0','垃圾满溢#','1509033600','1509033600','骆周怡','/upload/20171027163553_.jpeg','/upload/20171027163553_.jpeg','1710243') [ RunTime:0.0003s ]
+
+[ 2017-10-27T16:35:54+08:00 ] 112.97.59.217 /Home/Control/addsuccess/id/1981
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1981 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004641s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004681s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-10-27T16:35:55+08:00 ] 112.97.59.217 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008093s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008134s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-10-27T16:35:56+08:00 ] 112.97.59.217 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T16:36:00+08:00 ] 112.97.59.217 /Home/Control/daifankuixq/id/1981
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1981 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1981 ORDER BY id desc  [ RunTime:0.0711s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031572s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-10-27T16:36:01+08:00 ] 112.97.59.217 /Home/Control/edit/id/1981
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1981 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-10-27T16:36:04+08:00 ] 120.204.17.67 /Home/Control/addsuccess/id/1981
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005041s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005110s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000193s ]
+
+[ 2017-10-27T16:36:04+08:00 ] 112.97.59.217 /Home/Control/edit/id/1981
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: UPDATE `think_trouble` SET `office`='大鹏',`place`='沙浦村垃圾收集点',`question`='垃圾满溢#' WHERE `id` = 1981 AND `state` = 0 [ RunTime:0.0003s ]
+
+[ 2017-10-27T16:36:06+08:00 ] 112.97.59.217 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-10-27T16:36:06+08:00 ] 112.97.59.217 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T16:36:08+08:00 ] 112.97.59.217 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009634s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-10-27T16:37:33+08:00 ] 112.97.59.217 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=10 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0038s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('大鹏','水厂路垃圾收集点','0','垃圾满溢#','1509033600','1509033600','骆周怡','/upload/20171027163733_.jpeg','/upload/20171027163733_.jpeg','1710244') [ RunTime:0.0003s ]
+
+[ 2017-10-27T16:37:34+08:00 ] 112.97.59.217 /Home/Control/addsuccess/id/1982
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1982 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004615s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-10-27T16:37:43+08:00 ] 183.192.201.97 /Home/Control/addsuccess/id/1982
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004381s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004423s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+
+[ 2017-10-27T16:38:10+08:00 ] 112.97.59.217 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008575s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-10-27T16:38:11+08:00 ] 112.97.59.217 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T16:38:14+08:00 ] 112.97.59.217 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006716s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-10-27T16:38:41+08:00 ] 112.97.59.217 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=10 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0041s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('大鹏','布新垃圾屋','0','垃圾满溢#','1509033600','1509033600','骆周怡','/upload/20171027163841_.jpeg','/upload/20171027163841_.jpeg','1710245') [ RunTime:0.0003s ]
+
+[ 2017-10-27T16:38:42+08:00 ] 112.97.59.217 /Home/Control/addsuccess/id/1983
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1983 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004650s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-10-27T16:38:46+08:00 ] 112.97.59.217 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008446s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008487s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-10-27T16:38:47+08:00 ] 112.97.59.217 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T16:51:25+08:00 ] 106.11.227.68 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-10-27T17:19:22+08:00 ] 117.136.79.107 /Home/Xuanze?from=groupmessage&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005171s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005557s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-10-27T17:19:26+08:00 ] 117.136.79.107 /Home/Qingjie/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-10-27T17:19:26+08:00 ] 117.136.79.107 /Home/Control/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0014s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008062s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008103s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-10-27T17:19:27+08:00 ] 117.136.79.107 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T17:19:33+08:00 ] 117.136.79.107 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '大鹏' AND `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T17:19:36+08:00 ] 120.204.17.68 /Home/Qingjie/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-10-27T17:19:36+08:00 ] 58.247.212.98 /Home/Control/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005723s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005769s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+
+[ 2017-10-27T17:19:37+08:00 ] 120.204.17.68 /Home/Control/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0011s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010590s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010644s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-10-27T17:19:43+08:00 ] 117.136.79.107 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '大鹏' AND `state` = 0 ORDER BY id desc LIMIT 5,5   [ RunTime:0.0007s ]
+
+[ 2017-10-27T17:20:04+08:00 ] 117.136.79.107 /Home/Control/daifankuixq/id/1844
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1844 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1844 ORDER BY id desc  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-10-27T17:20:13+08:00 ] 120.204.17.69 /Home/Control/daifankuixq/id/1844
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004533s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004575s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+
+[ 2017-10-27T17:20:17+08:00 ] 117.136.79.107 /Home/Control/daifankuixq/id/1967
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0014s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1967 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1967 ORDER BY id desc  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-10-27T17:20:48+08:00 ] 117.136.79.107 /Home/Control/daifankuixq/id/1967
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1967 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1967 ORDER BY id desc  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006156s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006192s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-10-27T17:21:06+08:00 ] 117.136.79.107 /Home/Xuanze?from=groupmessage&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005557s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-10-27T17:21:09+08:00 ] 117.136.79.107 /Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-10-27T17:21:13+08:00 ] 117.136.79.107 /Home/Qingjie/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-10-27T17:21:14+08:00 ] 117.136.79.107 /Home/Control/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000637s ]
+
+[ 2017-10-27T17:21:14+08:00 ] 117.136.79.107 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T17:21:16+08:00 ] 117.136.79.107 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 5,5   [ RunTime:0.0004s ]
+
+[ 2017-10-27T17:21:29+08:00 ] 117.136.79.107 /Home/Qingjie/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+
+[ 2017-10-27T17:21:29+08:00 ] 117.136.79.107 /Home/Control/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008224s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008266s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-10-27T17:21:30+08:00 ] 117.136.79.107 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0069s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0008s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0004s ]
+
+[ 2017-10-27T17:21:34+08:00 ] 117.136.79.107 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '大鹏' AND `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T17:21:42+08:00 ] 117.136.79.107 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '大鹏' AND `state` = 0 ORDER BY id desc LIMIT 5,5   [ RunTime:0.0006s ]
+
+[ 2017-10-27T17:21:51+08:00 ] 117.136.79.107 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '大鹏' AND `state` = 0 ORDER BY id desc LIMIT 10,5   [ RunTime:0.0007s ]
+
+[ 2017-10-27T17:22:07+08:00 ] 117.136.79.107 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '大鹏' AND `state` = 0 ORDER BY id desc LIMIT 15,5   [ RunTime:0.0008s ]
+
+[ 2017-10-27T17:22:20+08:00 ] 117.136.79.107 /Home/Control/daifankuixq/id/1764
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0012s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`place`,`question`,`office`,`cishu`,`firstimg` FROM `think_trouble` WHERE `id` = 1764 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1764 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Home/784e01ed2d0335cbc5ceea539478fde8.php 第 111 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009448s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009496s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-10-27T17:22:30+08:00 ] 58.247.212.98 /Home/Control/daifankuixq/id/1764
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004676s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+
+[ 2017-10-27T17:22:40+08:00 ] 117.136.79.107 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0011s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0007s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '大鹏' AND `state` = 0 ORDER BY id desc LIMIT 20,5   [ RunTime:0.0013s ]
+
+[ 2017-10-27T17:22:45+08:00 ] 117.136.79.107 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `office` = '大鹏' AND `state` = 0 ORDER BY id desc LIMIT 25,5   [ RunTime:0.0011s ]
+
+[ 2017-10-27T18:13:13+08:00 ] 117.136.40.228 /Home/Xuanze?from=message&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-10-27T18:13:15+08:00 ] 117.136.40.228 /Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006290s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2017-10-27T18:13:16+08:00 ] 120.204.17.69 /Home/Xuanze?from=message&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-10-27T18:13:23+08:00 ] 117.136.40.228 /Home/Index/Login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 29 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/ShareController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_user` WHERE `username` = '骆周怡' AND `password` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-27T18:13:24+08:00 ] 117.136.40.228 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008152s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-10-27T18:13:24+08:00 ] 117.136.40.228 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0012s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T18:13:26+08:00 ] 117.136.40.228 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006612s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006653s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-10-27T18:14:04+08:00 ] 117.136.40.228 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0008s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=10 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0035s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','上企沙垃圾收集点','0','垃圾散落#','1509033600','1509033600','骆周怡','/upload/20171027181404_.jpeg','/upload/20171027181404_.jpeg','1710246') [ RunTime:0.0003s ]
+
+[ 2017-10-27T18:14:05+08:00 ] 117.136.40.228 /Home/Control/addsuccess/id/1984
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1984 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005918s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-10-27T18:14:06+08:00 ] 117.136.40.228 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008248s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008291s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-10-27T18:14:06+08:00 ] 117.136.40.228 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0008s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0004s ]
+
+[ 2017-10-27T18:14:07+08:00 ] 117.136.40.228 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-10-27T18:14:14+08:00 ] 120.204.17.67 /Home/Control/addsuccess/id/1984
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005315s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+
+[ 2017-10-27T18:14:34+08:00 ] 117.136.40.228 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=10 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0034s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','洋畴湾','0','地面不洁#','1509033600','1509033600','骆周怡','/upload/20171027181434_.jpeg','/upload/20171027181434_.jpeg','1710247') [ RunTime:0.0003s ]
+
+[ 2017-10-27T18:14:34+08:00 ] 117.136.40.228 /Home/Control/addsuccess/id/1985
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1985 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004572s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-10-27T18:14:35+08:00 ] 117.136.40.228 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-10-27T18:14:36+08:00 ] 117.136.40.228 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T18:14:37+08:00 ] 117.136.40.228 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-10-27T18:14:44+08:00 ] 120.204.17.67 /Home/Control/addsuccess/id/1985
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004651s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+
+[ 2017-10-27T18:15:09+08:00 ] 117.136.40.228 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=10 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0035s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','同富路','0','大件垃圾#','1509033600','1509033600','骆周怡','/upload/20171027181509_.jpeg','/upload/20171027181509_.jpeg','1710248') [ RunTime:0.0003s ]
+
+[ 2017-10-27T18:15:09+08:00 ] 117.136.40.228 /Home/Control/addsuccess/id/1986
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1986 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-10-27T18:15:10+08:00 ] 117.136.40.228 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008438s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-10-27T18:15:11+08:00 ] 117.136.40.228 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T18:15:12+08:00 ] 117.136.40.228 /Home/Control/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009542s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009596s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-10-27T18:15:19+08:00 ] 183.192.201.97 /Home/Control/addsuccess/id/1986
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004580s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004622s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+
+[ 2017-10-27T18:15:39+08:00 ] 117.136.40.228 /Home/Control/add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%m")=10 AND DATE_FORMAT(FROM_UNIXTIME(addtime) ,"%y")=17 )  [ RunTime:0.0038s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id  desc LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `think_trouble` (`office`,`place`,`state`,`question`,`addtime`,`lasttime`,`adduser`,`firstimg`,`lastimg`,`order`) VALUES ('南澳','企沙上路','0','垃圾散落#','1509033600','1509033600','骆周怡','/upload/20171027181539_.jpeg','/upload/20171027181539_.jpeg','1710249') [ RunTime:0.0003s ]
+
+[ 2017-10-27T18:15:40+08:00 ] 117.136.40.228 /Home/Control/addsuccess/id/1987
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1987 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005685s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-10-27T18:15:45+08:00 ] 117.136.40.228 /Home/Control/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008724s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-10-27T18:15:45+08:00 ] 117.136.40.228 /Home/Control/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` WHERE `id` = 21 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT DATE_FORMAT(FROM_UNIXTIME(addtime),"%Y-%m-%d")as addtime,`id`,`order`,`office`,`cishu`,`firstimg`,`lastimg` FROM `think_trouble` WHERE `state` = 0 ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2017-10-27T18:15:49+08:00 ] 120.204.17.46 /Home/Control/addsuccess/id/1987
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+NOTIC: [8] Undefined property: stdClass::$access_token /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 79 行.
+NOTIC: [8] Undefined property: stdClass::$ticket /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 84 行.
+NOTIC: [8] Undefined index: id /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 34 行.
+NOTIC: [8] Undefined index: username /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 35 行.
+NOTIC: [8] Undefined index: password /data/wwwroot/ceyuan1/Crm/Home/Controller/CommonController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000243s ]
+

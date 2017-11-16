@@ -1,0 +1,2082 @@
+[ 2017-01-29T18:20:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant upload_max_filesize - assumed 'upload_max_filesize' D:\www\ghxt\Crm\Runtime\Cache\Admin\e0274a4b86e7ba5d066849c021969eb0.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:21:28+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0230s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T18:21:31+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 10,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T18:21:35+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/del/id/28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+SQL: DELETE FROM `think_hospital` WHERE `id` = 28 [ RunTime:0.0120s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T18:21:36+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T18:21:39+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 10,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:21:42+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/del/id/27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+SQL: DELETE FROM `think_hospital` WHERE `id` = 27 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T18:21:43+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:21:46+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 10,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:21:49+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/del/id/26
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+SQL: DELETE FROM `think_hospital` WHERE `id` = 26 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T18:21:50+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:21:53+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 10,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:21:55+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/del/id/25
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+SQL: DELETE FROM `think_hospital` WHERE `id` = 25 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:21:57+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:23:07+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 10,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:23:10+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/del/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: DELETE FROM `think_hospital` WHERE `id` = 24 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:23:11+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T18:23:16+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 5,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:23:19+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/del/id/23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0060s ]
+SQL: DELETE FROM `think_hospital` WHERE `id` = 23 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:23:20+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:32:41+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 5,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T18:34:03+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:34:08+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '对对对' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Controller:createtable方法不存在！
+
+[ 2017-01-29T18:35:54+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '对对对' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: num D:\www\ghxt\Crm\Admin\Model\HospitalModel.class.php 第 21 行.
+NOTIC: [8] Undefined variable: a D:\www\ghxt\Crm\Admin\Model\HospitalModel.class.php 第 36 行.
+SQL: 				DROP TABLE IF EXISTS `think_patient`;
+				CREATE TABLE `think_patient` (
+  				`id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+  				`name` varchar(100) NOT NULL COMMENT '//患者姓名',
+  				`age` varchar(100) NOT NULL COMMENT '//患者年龄',
+  				`tel` varchar(100) NOT NULL COMMENT '//患者电话',
+  				`qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+  				`entity` varchar(100) NOT NULL COMMENT '//病种名称',
+  				`from` varchar(100) NOT NULL COMMENT '//来源渠道',
+  				`department` varchar(100) NOT NULL COMMENT '//所属科室',
+  				`appointtime` int(11) NOT NULL COMMENT '//预约时间',
+  				`askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+  				`chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+  				`other` varchar(255) NOT NULL COMMENT '//备注信息',
+  				PRIMARY KEY (`id`)
+												) 
+				ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	 [ RunTime:0.0410s ]
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('对对对','http://','0','1485686154') [ RunTime:0.0320s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:35:55+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:36:54+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T18:36:57+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '333' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: a D:\www\ghxt\Crm\Admin\Model\HospitalModel.class.php 第 36 行.
+SQL: 				DROP TABLE IF EXISTS `think_patient4`;
+				CREATE TABLE `think_patient` (
+  				`id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+  				`name` varchar(100) NOT NULL COMMENT '//患者姓名',
+  				`age` varchar(100) NOT NULL COMMENT '//患者年龄',
+  				`tel` varchar(100) NOT NULL COMMENT '//患者电话',
+  				`qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+  				`entity` varchar(100) NOT NULL COMMENT '//病种名称',
+  				`from` varchar(100) NOT NULL COMMENT '//来源渠道',
+  				`department` varchar(100) NOT NULL COMMENT '//所属科室',
+  				`appointtime` int(11) NOT NULL COMMENT '//预约时间',
+  				`askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+  				`chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+  				`other` varchar(255) NOT NULL COMMENT '//备注信息',
+  				PRIMARY KEY (`id`)
+												) 
+				ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	 [ RunTime:0.0010s ]
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('333','http://33','3333','1485686217') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T18:36:58+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:38:34+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:38:37+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = 'ddd' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: DROP TABLE IF EXISTS `think_patient4`;
+CREATE TABLE `think_patient4` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	 [ RunTime:0.0000s ]
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('ddd','http://','0','1485686317') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:38:38+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:48:20+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 10,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:54:20+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T18:54:23+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '达到' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: DROP TABLE IF EXISTS `think_patient4`;
+CREATE TABLE `think_patient4` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	 [ RunTime:0.0020s ]
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('达到','http://','111','1485687263') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T18:58:02+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:58:03+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '达到' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:58:06+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '达到1' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('达到1','http://','111','1485687488') [ RunTime:0.0010s ]
+SQL: DROP TABLE IF EXISTS `think_patient33`;
+CREATE TABLE `think_patient33` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T18:58:10+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T19:03:11+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T19:03:15+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '飞飞飞' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('飞飞飞','http://','0','1485687795') [ RunTime:0.0000s ]
+SQL: 		DROP TABLE IF EXISTS `think_patient34`;
+		CREATE TABLE `think_patient34` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:03:16+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:05:18+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T19:05:23+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = ' 222' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES (' 222','http://','222','1485687923') [ RunTime:0.0000s ]
+SQL: 		DROP TABLE IF EXISTS `think_patient35`;
+		CREATE TABLE `think_patient35` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:05:24+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:08:43+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:08:47+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '对方地方' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('对方地方','http://','444','1485688127') [ RunTime:0.0000s ]
+SQL: 		DROP TABLE IF EXISTS `think_patient36`;
+		CREATE TABLE `think_patient36` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	 [ RunTime:0.0010s ]
+ERR: :
+ [ SQL语句 ] : 		DROP TABLE IF EXISTS `think_patient36`;
+		CREATE TABLE `think_patient36` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	
+ERR: :
+ [ SQL语句 ] : 		DROP TABLE IF EXISTS `think_patient36`;
+		CREATE TABLE `think_patient36` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	
+
+[ 2017-01-29T19:09:46+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '对方地方' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:09:49+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:10:26+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '对方地方2' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('对方地方2','http://','444','1485688226') [ RunTime:0.0000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DRdOP TABLE IF EXISTS `think_patient37`;
+		CdREATE TABLE `think_patient37` (
+	' at line 1
+ [ SQL语句 ] : 		DRdOP TABLE IF EXISTS `think_patient37`;
+		CdREATE TABLE `think_patient37` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DRdOP TABLE IF EXISTS `think_patient37`;
+		CdREATE TABLE `think_patient37` (
+	' at line 1
+ [ SQL语句 ] : 		DRdOP TABLE IF EXISTS `think_patient37`;
+		CdREATE TABLE `think_patient37` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	
+
+[ 2017-01-29T19:17:11+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T19:17:13+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T19:17:17+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '333' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:17:20+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T19:17:35+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '3335' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: 1142:INSERT command denied to user 'john'@'localhost' for table 'think_hospital'
+ [ SQL语句 ] : INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('3335','http://','333','1485688655')
+ERR: 1142:INSERT command denied to user 'john'@'localhost' for table 'think_hospital'
+ [ SQL语句 ] : INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('3335','http://','333','1485688655')
+
+[ 2017-01-29T19:19:10+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '3335' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('3335','http://','333','1485688750') [ RunTime:0.0010s ]
+ERR: 1142:DROP command denied to user 'john'@'localhost' for table 'think_patient38'
+ [ SQL语句 ] : 		DROP TABLE IF EXISTS `think_patient38`;
+		CREATE TABLE `think_patient38` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	
+ERR: 1142:DROP command denied to user 'john'@'localhost' for table 'think_patient38'
+ [ SQL语句 ] : 		DROP TABLE IF EXISTS `think_patient38`;
+		CREATE TABLE `think_patient38` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	
+
+[ 2017-01-29T19:19:51+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '3335' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:19:54+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:24:02+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '安康长江医院' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('安康长江医院','http://ak.com','1','1485689042') [ RunTime:0.0000s ]
+SQL: 		DROP TABLE IF EXISTS `think_patient39`;
+		CREATE TABLE `think_patient39` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:24:03+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:24:39+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:24:52+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '渭南华大医院' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('渭南华大医院','http://','3','1485689092') [ RunTime:0.0000s ]
+SQL: 		DROP TABLE IF EXISTS `think_patient40`;
+		CREATE TABLE `think_patient40` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T19:24:53+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T19:27:52+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/del/id/39
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: DELETE FROM `think_hospital` WHERE `id` = 39 [ RunTime:0.0000s ]
+SQL: 		DROP TABLE IF EXISTS `think_patient39`; [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T19:27:53+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T19:28:03+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/del/id/40
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0050s ]
+SQL: DELETE FROM `think_hospital` WHERE `id` = 40 [ RunTime:0.0030s ]
+SQL: 		DROP TABLE IF EXISTS `think_patient40`; [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T19:28:04+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T20:16:14+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant upload_max_filesize - assumed 'upload_max_filesize' D:\www\ghxt\Crm\Runtime\Cache\Admin\e0274a4b86e7ba5d066849c021969eb0.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T20:16:24+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T20:17:31+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T20:18:23+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '666' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('666','http://','666','1485692303') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: a D:\www\ghxt\Crm\Admin\Model\HospitalModel.class.php 第 35 行.
+ERR: 1142:DROP command denied to user 'john'@'localhost' for table 'think_patient41'
+ [ SQL语句 ] : 		DROP TABLE IF EXISTS `think_patient41`;
+		CREATE TABLE `think_patient` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	
+ERR: 1142:DROP command denied to user 'john'@'localhost' for table 'think_patient41'
+ [ SQL语句 ] : 		DROP TABLE IF EXISTS `think_patient41`;
+		CREATE TABLE `think_patient` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	
+
+[ 2017-01-29T20:18:43+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '666' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T20:18:46+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T20:18:47+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '6666666' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('6666666','http://','666','1485692327') [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: a D:\www\ghxt\Crm\Admin\Model\HospitalModel.class.php 第 35 行.
+SQL: 		DROP TABLE IF EXISTS `think_patient42`;
+		CREATE TABLE `think_patient` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	 [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T20:18:48+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T20:19:59+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T20:20:02+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '43543' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('43543','http://','54545','1485692402') [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: a D:\www\ghxt\Crm\Admin\Model\HospitalModel.class.php 第 35 行.
+SQL: 		DROP TABLE IF EXISTS `think_patient43`;
+		CREATE TABLE `think_patient` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	 [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T20:20:03+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_hospital` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `think_hospital` ORDER BY addtime asc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-29T20:20:14+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-29T20:20:17+08:00 ] 127.0.0.1 /index.php/Admin/Hospital/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_hospital` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `think_hospital` WHERE `name` = '33344444' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto D:\www\ghxt\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_hospital` (`name`,`website`,`sort`,`addtime`) VALUES ('33344444','http://','334','1485692417') [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: a D:\www\ghxt\Crm\Admin\Model\HospitalModel.class.php 第 35 行.
+ERR: 1142:DROP command denied to user 'john'@'localhost' for table 'think_patient44'
+ [ SQL语句 ] : 		DROP TABLE IF EXISTS `think_patient44`;
+		CREATE TABLE `think_patient` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	
+ERR: 1142:DROP command denied to user 'john'@'localhost' for table 'think_patient44'
+ [ SQL语句 ] : 		DROP TABLE IF EXISTS `think_patient44`;
+		CREATE TABLE `think_patient` (
+		  `id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT '//患者id',
+		  `name` varchar(100) NOT NULL COMMENT '//患者姓名',
+		  `age` varchar(100) NOT NULL COMMENT '//患者年龄',
+		  `tel` varchar(100) NOT NULL COMMENT '//患者电话',
+		  `qq` varchar(100) NOT NULL COMMENT '//患者QQ',
+		  `entity` varchar(100) NOT NULL COMMENT '//病种名称',
+		  `from` varchar(100) NOT NULL COMMENT '//来源渠道',
+		  `department` varchar(100) NOT NULL COMMENT '//所属科室',
+		  `appointtime` int(11) NOT NULL COMMENT '//预约时间',
+		  `askcontent` varchar(255) NOT NULL COMMENT '//咨询内容',
+		  `chatcontent` varchar(1000) NOT NULL COMMENT '//聊天内容',
+		  `other` varchar(255) NOT NULL COMMENT '//备注信息',
+		  PRIMARY KEY (`id`)
+		) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;	
+

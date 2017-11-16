@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+		<script language="javascript" src="../addons/sz_yi/static/js/require.js"></script>
+        <script language="javascript" src="../addons/sz_yi/static/js/app/config.js?v=2"></script>
+		<script src="../addons/sz_yi/static/js/jquery-1.5.1.js" type="text/javascript"></script>		
+		<script src="../addons/sz_yi/static/js/rem.js" type="text/javascript"></script>		
+		<link rel="stylesheet" href="../addons/sz_yi/static/css/demo.css">
+    	<link rel="stylesheet" href="../addons/sz_yi/static/css/iconfont.css">
+		<link href="../addons/sz_yi/static/css/wappublic.css" rel="stylesheet" />
+		<link href="../addons/sz_yi/static/css/list.css" rel="stylesheet" />
+		<title>分类</title>		 
+		<script language="javascript">
+		    require(['core','tpl'],function(core,tpl){
+		        core.init({
+		            siteUrl: "{$_W['siteroot']}",
+		            baseUrl: "{php echo $this->createMobileUrl('ROUTES')}"
+		        });
+
+		    })
+		</script>
+		<style>
+			.follow_topbar {height:44px; width:100%; background:rgba(0,0,0,0.8); position:fixed; top:0px; max-width: 720px;z-index:999;}
+			.follow_topbar .headimg {height:32px; width:32px; padding:6px; float:left;}
+			.follow_topbar .headimg img {height:32px; width:32px;}
+			.follow_topbar .info {height:28px; padding:8px 0px;}
+			.follow_topbar .info .i {height:14px; line-height:14px; color:#ccc; font-size:12px;}
+			.follow_topbar .info {height:40px; float:left;}
+			.follow_topbar span {color:#ff6600}
+			.follow_topbar .sub {height:24px; width:auto; background:#32cd32; padding:0px 10px; margin:10px 8px 10px 0px; float:right; font-size:12px; color:#fff; line-height:26px; border-radius:3px;}
+			.fav-active{color:#f70303;}
+		</style>
+	</head>
+	<body>
+	{if is_array($this->header)}
+		<div class="follow_topbar"><div class="headimg"><img src="{php echo $this->header['icon']}"></div><div class="info"><div class="i">{php echo $this->header['text']}</div><div class="i">关注公众号，享专属服务</div></div><div class="sub" onclick="location.href='{php echo $this->header['url']}'">立即关注</div></div>
+		<div style='height:44px;'>&nbsp;</div>
+	{/if}
+		<header>
+			<div class="h_left">
+				 <i class="icon iconfont icon-fanhui-"></i>
+			</div>
+			<div class="h_right">
+				 <i class="icon iconfont icon-chazhao"></i>
+			</div>
+		</header>
+		
+		<div id="container"></div>
+
+		<script id="tpl_index" type='text/html'>
+			<div class="maini">
+				<ul class="m_left">
+					<%each category as value%>
+					<li data-pcate="<%value.id%>">
+						<i></i>
+						<span><%value.name%></span>
+					</li>
+					<%/each%>
+				</ul>
+				<div class="m_right" id="children" >
+
+				</div>
+			</div>
+			<div class="no"></div>
+
+		</script>
+		<script id="tpl_children" type='text/html'>
+			<div class="mr_a">
+				<img src="<%advimg%>">
+				<ul class="m_list"> 
+					<%each children as value%>
+					<li>
+						<a href="{php echo $this->createMobileUrl('shop/list')}&pcate=<%value.parentid%>&ccate=<%value.id%>"><img src="<%value.thumb%>"  /></a>
+						<span><%value.name%></span>
+						<div class="m_posi<%if value.isfav%> fav-active<%/if%>" data-id="<%value.id%>" id="posi_<%value.id%>">
+							<i class="icon iconfont icon-love"></i>
+							<span><%if value.favs%><%if value.favs.fav>0%><%value.favs.fav%><%else%>0<%/if%><%else%>0<%/if%></span>
+						</div>
+					</li>
+					<%/each%>
+				</ul>
+			</div>
+		</script>
+		
+		{template 'common/footernav'}
+		<form action="{php echo $this->createMobileUrl('shop/list')}" method="post">
+			<div class="s_two">
+					
+					<input type="search" placeholder="请输入搜索内容" name="keywords" class="st"/>
+					<div class="s_btn">取消</div>
+			</div>	
+		</form>
+	</body>
+	<script language='javascript'>
+	var category = [];
+    var children = [];
+    var recommand = [];
+    var pcate = 'rec';
+    require(['tpl', 'core'], function (tpl, core) {
+
+        core.json('shop/util',{op:'category'}, function (json) {
+        	var result = json.result;
+        	category = result.category;
+        	var cid = "{$_GPC['pcate']}";
+        	var index = 0;
+        	for(var i in category){
+        		
+        		if(category[i]['id'] == cid){
+        			index = i;
+        			break;
+        		}
+        	}
+        	var parent = category[index];
+        	console.log(parent);
+        	$('#container').html(tpl('tpl_index',result));
+        	$('#children').html(tpl('tpl_children',parent));
+        	//侧边栏点击切换                
+			$(".m_right>div").show();
+			// $(".m_right>div").eq(index).show();
+			$(".m_left li").eq(index).children("i").css({"opacity":"1"});
+			$(".m_left li").eq(index).css({'background':"#f5f5f5"});
+			$(".m_left li").click(function(){
+				var num =$(this).index();
+				console.log(category[num]);
+				$('#children').html(tpl('tpl_children',category[num]));
+				$(".m_left li").children("i").css({"opacity":'0'});
+				$(".m_left li").css({'background':"#fff"});
+				$(this).children("i").css({"opacity":"1"});				
+				$(this).css({'background':"#f5f5f5"});
+				$(".m_posi").click(function(){
+					var id = $(this).data("id");
+					var num = parseInt($(this).children('span').html());
+					if($(this).hasClass('fav-active')){
+						$(this).children('span').html(num-1);
+					}else{
+						$(this).children('span').html(num+1);
+					}
+					$(this).toggleClass('fav-active');
+					core.json('shop/category',{op:"fav",id:id},function(json){
+						console.log(json);
+						
+						// $(this).children('span').html(json);
+					},true,true);
+				});
+			})
+			$(".m_posi").click(function(){
+				var id = $(this).data("id");
+				var num = parseInt($(this).children('span').html());
+				if($(this).hasClass('fav-active')){
+					$(this).children('span').html(num-1);
+				}else{
+					$(this).children('span').html(num+1);
+				}
+				$(this).toggleClass('fav-active');
+				core.json('shop/category',{op:"fav",id:id},function(json){
+					console.log(json);
+					
+					// $(this).children('span').html(json);
+				},true,true);
+			});
+
+        }, true);
+     
+    });
+</script>
+	<script type="text/javascript">
+		$(document).ready(function(){	
+			//返回上一页
+			$(".h_left").click(function(){
+				history.go(-1);
+			});
+			//侧边栏点击切换                
+			$(".m_right>div").hide();
+			$(".m_right>div").eq(0).show();
+			$(".m_left li").eq(0).children("i").css({"opacity":"1"});
+			$(".m_left li").eq(0).css({'background':"#f5f5f5"});
+			$(".m_left li").click(function(){
+				var num =$(this).index();
+				$(".m_left li").children("i").css({"opacity":'0'});
+				$(".m_left li").css({'background':"#fff"});
+				$(this).children("i").css({"opacity":"1"});				
+				$(this).css({'background':"#f5f5f5"});
+				$(".m_right>div").hide();
+				$(".m_right>div").eq(num).show();
+			})
+			//底部点击
+			$(".f_list li").eq(1).children('i').addClass("active");
+			$(".f_list li").eq(1).children('.name').addClass("active");
+			$(".f_list li").click(function(){
+				$(".f_list li").children("i").removeClass("active");
+				$(".name").removeClass("active");
+				$(this).children("i").addClass("active");
+				$(this).children(".name").addClass("active")
+			})
+			//点击搜索
+			$(".s_two").hide();
+			$(".h_right").click(function(){
+				$(".pop").show();
+				$(".s_two").show();
+				$(".st").focus();
+			});
+			//滚动事件
+			$(window).scroll(function () {
+				var  hei = $(document).scrollTop() ;
+				console.log(hei);
+				if (hei >= 50) {
+					$(".m_left").addClass("ml_posi");
+				}else{
+					$(".m_left").removeClass("ml_posi");
+				}
+			});
+			//键盘弹出事件
+			var h=$(window).height();
+	         $(window).resize(function() {
+		        if($(window).height()<h){
+		            $('footer').hide();
+		        }
+		        if($(window).height()>=h){
+		            $('footer').show();
+		        }
+		    });
+		    $(".s_btn,.pop").click(function(){
+		    	$(".s_two input").val("");
+				$(".s_two").hide();
+				$(".pop").hide();
+			});
+			//收藏
+			$(".m_posi").click(function(){
+				var color =$(this).children('i').css('color');
+				var num = $(this).children("span").text();
+				$(this).toggleClass("m_active");
+				if($(this).hasClass("m_active")){
+					$(this).children("span").text(++num);
+				}else{
+					$(this).children("span").text(--num);
+				}
+//				if(color == 'rgb(253, 130, 130)'){
+//					$(this).children('i').css("color","#000");
+//					num--;
+//					$(this).children("span").text(num--);
+//				}else{
+//					$(this).children('i').css("color","#fd8282");
+//					num++;
+//				$(this).children("span").text(num++);
+//				}			
+			});
+		})
+	</script>
+</html>

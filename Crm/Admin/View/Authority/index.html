@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>后台管理</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/main.css"/>
+    <script type="text/javascript" src="__PUBLIC__/js/libs/modernizr.min.js"></script>
+</head>
+<body>
+<!--引入公共head-->
+<include file="Public/head" /> 
+
+
+<div class="container clearfix">
+
+
+<!--引入公共sidebar-->
+<include file="Public/left" /> 
+
+    <div class="main-wrap">
+
+        <div class="crumb-wrap">
+            <div class="crumb-list"><i class="icon-font"></i><a href="__MODULE__/Index">首页</a><span class="crumb-step">&gt;</span><span class="crumb-name">用户组列表</span></div>
+        </div>
+        <div class="search-wrap">
+
+        </div>
+        <div class="result-wrap">
+            <form name="myform" id="myform" method="post" action="__CONTROLLER__/Index/sort/1/">
+                <div class="result-title">
+                    <div class="result-list">
+                        <a href="__CONTROLLER__/add"><i class="icon-font"></i>创建用户组</a>
+                        <a id="batchDel" href="javascript:void(0)"><i class="icon-font"></i>批量删除</a>
+                        
+                    </div>
+                </div>
+                
+                
+                <div class="result-content">
+                 <volist name="list" id="vo">
+                 	<div style="display:inline-table;margin-right:5%;border:1px solid #333;border-radius:3px;width:25%;padding:1px;">
+                    <table style="border:0px;" cellpadding="0" cellspacing="0" class="result-tab"  border="0" width="100%" >
+                        <tr>
+                            <th width="20%">Id</th>
+                            <th>{$vo.id} <span style="float:right;"><a style="color:#000;" href=""><i class="icon-font" style="text-align:right;">&#xe065;</i></a>  &nbsp; <a  onClick="return confirm('警告:你确定要删除{$vo.username}吗?')"  style="color:#000;" href="__CONTROLLER__/del/id/{$vo.id}"><i class="icon-font" style="text-align:right;">&#xe069;</i></a></span></th>
+                        </tr>
+                        
+                       
+                        
+                        <tr>
+                            <td width="20%">名称</td>
+                            <td>{$vo.name}</td>
+						</tr>
+                        
+                        
+                        <tr>
+                            <td width="20%">授权查看</td>
+                            <td>{$vo.view}</td>
+						</tr>
+                        
+                        
+                        <tr>
+                            <td width="20%">授权操作</td>
+                            <td>{$vo.action}</td>
+						</tr>
+					 
+                    </table>
+                    </div>
+                      </volist>
+                   <div class="list-page">{$page}</div>
+<div class="crumb-list"><i class="icon-font">&#xe021;</i><span class="crumb-name"> :用户注册后默认为未审核状态,只有管理员审核后才能进行登陆。请不要轻易删除用户!!!</span></div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!--/main-->
+</div>
+</body>
+</html>

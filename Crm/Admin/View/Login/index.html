@@ -1,0 +1,68 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="IE=11.0000" http-equiv="X-UA-Compatible">
+<title>站长登录 -后台管理</title> 
+<script src="__PUBLIC__/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="__PUBLIC__/css/starry.css" type="text/css">
+
+     
+<script type="text/javascript">
+$(function(){
+	//得到焦点
+	$("#password").focus(function(){
+		$("#left_hand").animate({
+			left: "150",
+			top: " -38"
+		},{step: function(){
+			if(parseInt($("#left_hand").css("left"))>140){
+				$("#left_hand").attr("class","left_hand");
+			}
+		}}, 2000);
+		$("#right_hand").animate({
+			right: "-64",
+			top: "-38px"
+		},{step: function(){
+			if(parseInt($("#right_hand").css("right"))> -70){
+				$("#right_hand").attr("class","right_hand");
+			}
+		}}, 2000);
+	});
+	//失去焦点
+	$("#password").blur(function(){
+		$("#left_hand").attr("class","initial_left_hand");
+		$("#left_hand").attr("style","left:100px;top:-12px;");
+		$("#right_hand").attr("class","initial_right_hand");
+		$("#right_hand").attr("style","right:-112px;top:-12px");
+	});
+});
+</script>
+ 
+<meta name="GENERATOR" content="MSHTML 11.00.9600.17496"></head> 
+<body scroll="no" style="overflow-x:hidden;overflow-y:hidden">
+<div class="top_div"></div>
+
+
+
+
+	<include file="Public/login" /> 
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+</body>
+
+</html>

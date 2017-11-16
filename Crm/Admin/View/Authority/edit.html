@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>后台管理</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/main.css"/>
+    <script type="text/javascript" src="__PUBLIC__/js/libs/modernizr.min.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/js/Commonaxja.js"></script>    
+</head>
+<body>
+<!--引入公共head-->
+<include file="Public/head" /> 
+
+
+<div class="container clearfix">
+
+
+<!--引入公共sidebar-->
+<include file="Public/left" /> 
+
+    <div class="main-wrap">
+
+        <div class="crumb-wrap">
+            <div class="crumb-list"><i class="icon-font"></i><a href="/jscss/admin/design/">首页</a><span class="crumb-step">&gt;</span><a class="crumb-name" href="/jscss/admin/design/">部门管理</a><span class="crumb-step">&gt;</span><span>编辑用户</span></div>
+        </div>
+        <div class="result-wrap">
+            <div class="result-content">
+                <form action="" method="post" id="myform" name="myform" enctype="multipart/form-data">
+                    <input type="hidden" name="id" value="{$doctorres.id}">
+                    <table class="insert-tab" width="100%">
+                    
+                        <tbody>
+                            <tr>
+                                <th><i class="require-red">*</i>用户姓名：</th>
+                                <td>
+                                    <input class="common-text required" id="name" name="name" size="50" readonly="readonly" value="{$users.username}" type="text">
+                                </td>
+                            </tr>
+                            
+                              <tr>
+                                <th><i class="require-red">*</i>用户性别：</th>
+                                <td>
+                                  <select id="sex" name="sex">
+                                  		<option value="">请选择</option>
+                                        	<option value="1" selected="selected">男</option>
+                                            <option value="2">女</option>             		
+                                  </select>
+                                </td>
+                            </tr>  
+                           
+                            <tr>
+                                <th><i class="require-red">*</i>用户ＱＱ：</th>
+                                <td>
+                                    <input class="common-text required" id="qq" name="qq" size="50"  value="{$users.qq}" type="text">
+                                </td>
+                            </tr>
+                            
+                            
+
+                            <tr>
+                                <th><i class="require-red">*</i>用户电话：</th>
+                                <td>
+                                    <input class="common-text required" id="mobile" name="mobile" size="50"  value="{$users.mobile}" type="text">
+                                </td>
+                            </tr>                     
+       
+                            <tr>
+                                <th><i class="require-red">*</i>联系邮箱：</th>
+                                <td>
+                                    <input class="common-text required" id="email" name="email" size="50"  value="{$users.email}" type="text">
+                                </td>
+                            </tr>                      
+                            <tr>
+                                <th></th>
+                                <td>
+                                    <input class="btn btn-primary btn6 mr10" value="提交" type="submit">
+                                    <input class="btn btn6" onclick="history.go(-1)" value="返回" type="button">
+                                </td>
+                            </tr>
+                        </tbody>
+                   
+                        
+                        </table>
+                        
+                </form>
+                <br/>
+                <div class="crumb-list"><i class="icon-font">&#xe021;</i><span class="crumb-name"> : 用户更换电脑后无法登陆,管理员直接清空硬件信息即可.</span></div>
+            </div>
+            
+        </div>
+        
+
+    </div>
+    <!--/main-->
+</div>
+</body>
+</html>

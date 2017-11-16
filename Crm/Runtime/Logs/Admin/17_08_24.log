@@ -1,0 +1,2908 @@
+[ 2017-08-24T09:40:40+08:00 ] 119.136.100.48 /Admin/Trouble/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006809s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006877s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+
+[ 2017-08-24T10:48:55+08:00 ] 123.66.35.39 /Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005772s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-08-24T10:48:56+08:00 ] 123.66.35.39 /Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004646s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-08-24T10:48:58+08:00 ] 123.66.35.39 /Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005256s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005296s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-08-24T10:49:09+08:00 ] 123.66.35.39 /Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004702s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-08-24T10:49:24+08:00 ] 123.66.35.39 /Admin/Login/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0345s ]
+NOTIC: [8] Undefined index: validate /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `think_user` WHERE `username` = ' admin' LIMIT 1   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+
+[ 2017-08-24T10:49:29+08:00 ] 123.66.35.39 /Admin/Login/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `think_user` WHERE `username` = ' admin' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004460s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+
+[ 2017-08-24T10:49:35+08:00 ] 123.66.35.39 /Admin/Login/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: validate /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `think_user` WHERE `username` = ' admin' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004403s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+
+[ 2017-08-24T10:49:42+08:00 ] 123.66.35.39 /Admin/Login/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `think_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005062s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-08-24T10:49:45+08:00 ] 123.66.35.39 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Use of undefined constant upload_max_filesize - assumed 'upload_max_filesize' /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/e0274a4b86e7ba5d066849c021969eb0.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007449s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-08-24T10:49:52+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 0,5   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010965s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011028s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2017-08-24T10:49:54+08:00 ] 123.66.35.39 /Admin/Trouble/daochu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020237s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-08-24T10:50:02+08:00 ] 123.66.35.39 /Admin/Trouble/daochu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`order`,`state`,`cishu`,`office`,`place`,`question`,`addtime`,`lasttime`,`adduser` FROM `think_trouble` WHERE `addtime` BETWEEN 1503072000 AND 1503590400  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined variable: question /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 433 行.
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1587  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1588  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1589  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1590  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1591  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1592  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1593  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1594  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1595  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1596  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1597  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1598  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1599  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1600  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1601  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1602  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1603  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1604  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1605  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1606  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1607  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1608  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1609  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1610  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1611  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1612  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1613  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1614  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1615  [ RunTime:0.0006s ]
+
+[ 2017-08-24T10:52:07+08:00 ] 123.66.35.39 /Admin/Trouble/daishenhe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` WHERE ( state=1 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( state=1 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009635s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009693s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-08-24T10:52:09+08:00 ] 123.66.35.39 /Admin/Trouble/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` WHERE ( state=0 ) LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( state=0 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009830s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009885s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-08-24T10:52:13+08:00 ] 123.66.35.39 /Admin/Trouble/daishenhe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` WHERE ( state=1 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( state=1 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-08-24T10:52:15+08:00 ] 123.66.35.39 /Admin/Trouble/yiwancheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` WHERE ( state=2 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( state=2 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-08-24T10:52:17+08:00 ] 123.66.35.39 /Admin/Trouble/daishenhe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` WHERE ( state=1 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( state=1 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008771s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-08-24T10:52:18+08:00 ] 123.66.35.39 /Admin/Trouble/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` WHERE ( state=0 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( state=0 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008555s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000602s ]
+
+[ 2017-08-24T10:52:19+08:00 ] 117.185.27.115 /Admin/Trouble/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+
+[ 2017-08-24T11:00:34+08:00 ] 123.66.35.39 /Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+
+[ 2017-08-24T11:00:37+08:00 ] 123.66.35.39 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Use of undefined constant upload_max_filesize - assumed 'upload_max_filesize' /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/e0274a4b86e7ba5d066849c021969eb0.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006661s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006698s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-08-24T11:00:37+08:00 ] 123.66.35.39 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Use of undefined constant upload_max_filesize - assumed 'upload_max_filesize' /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/e0274a4b86e7ba5d066849c021969eb0.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-08-24T11:00:39+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010314s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-08-24T11:00:40+08:00 ] 123.66.35.39 /Admin/Trouble/yiwancheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` WHERE ( state=2 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( state=2 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008709s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-08-24T11:00:41+08:00 ] 117.185.27.115 /Admin/Trouble/quanbu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004311s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004353s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+
+[ 2017-08-24T11:00:41+08:00 ] 123.66.35.39 /Admin/Trouble/daochu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005975s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-08-24T11:00:48+08:00 ] 117.185.27.113 /Admin/Trouble/daochu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004394s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+
+[ 2017-08-24T11:00:49+08:00 ] 123.66.35.39 /Admin/Trouble/daochu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`order`,`state`,`cishu`,`office`,`place`,`question`,`addtime`,`lasttime`,`adduser` FROM `think_trouble` WHERE `addtime` BETWEEN 1502640000 AND 1502985600  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: question /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 433 行.
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1528  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1529  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1530  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1531  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1532  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1533  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1534  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1535  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1536  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1537  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1538  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1539  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1540  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1541  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1542  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1543  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1544  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1545  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1546  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1547  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1548  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1549  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1550  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1551  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1552  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1553  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1554  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1555  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1556  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1557  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1558  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1559  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1560  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1561  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1562  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1563  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1564  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1565  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1566  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1567  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1568  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1569  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1570  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1571  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1572  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1573  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1574  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1575  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1576  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1577  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1578  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1579  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1580  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1581  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1582  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1583  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1584  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1585  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1586  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+
+[ 2017-08-24T11:01:28+08:00 ] 123.66.35.39 /Admin/Trouble/daochu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0013s ]
+SQL: SELECT `id`,`order`,`state`,`cishu`,`office`,`place`,`question`,`addtime`,`lasttime`,`adduser` FROM `think_trouble` WHERE `addtime` BETWEEN 1502640000 AND 1502985600  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined variable: question /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 433 行.
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1528  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1529  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1530  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1531  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1532  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1533  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1534  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1535  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1536  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1537  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1538  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1539  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1540  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1541  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1542  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1543  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1544  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1545  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1546  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1547  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1548  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1549  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1550  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1551  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1552  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1553  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1554  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1555  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1556  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1557  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1558  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1559  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1560  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1561  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1562  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1563  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1564  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1565  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1566  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1567  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1568  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1569  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1570  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1571  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1572  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1573  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1574  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1575  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1576  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1577  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1578  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1579  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1580  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1581  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1582  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1583  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1584  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1585  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1586  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+
+[ 2017-08-24T11:02:12+08:00 ] 123.66.35.39 /Admin/Trouble/daishenhe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` WHERE ( state=1 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( state=1 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008872s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008930s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-08-24T11:02:14+08:00 ] 123.66.35.39 /Admin/Trouble/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` WHERE ( state=0 ) LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( state=0 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-08-24T15:44:10+08:00 ] 123.66.35.39 /Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006981s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-08-24T15:44:20+08:00 ] 123.66.35.39 /Admin/Login/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: validate /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `think_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004594s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-08-24T15:44:23+08:00 ] 123.66.35.39 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Use of undefined constant upload_max_filesize - assumed 'upload_max_filesize' /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/e0274a4b86e7ba5d066849c021969eb0.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005949s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005985s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-08-24T15:46:41+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007834s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-08-24T15:46:47+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 15,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-08-24T15:46:53+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 20,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-08-24T15:46:56+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 20,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008168s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008210s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-08-24T15:47:06+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 25,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-08-24T15:47:09+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 30,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007913s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-08-24T15:47:15+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 35,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007994s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008037s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-08-24T15:47:19+08:00 ] 117.185.27.115 /Admin/Trouble/quanbu/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+
+[ 2017-08-24T15:47:21+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/9.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 40,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008569s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-08-24T15:47:39+08:00 ] 123.66.35.39 /Admin/Trouble/daochu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005274s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-08-24T15:47:46+08:00 ] 123.66.35.39 /Admin/Trouble/daochu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`order`,`state`,`cishu`,`office`,`place`,`question`,`addtime`,`lasttime`,`adduser` FROM `think_trouble` WHERE `addtime` BETWEEN 1503244800 AND 1503504000  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined variable: question /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 433 行.
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1587  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1588  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1589  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1590  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1591  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1592  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1593  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1594  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1595  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1596  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1597  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1598  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1599  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1600  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1601  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1602  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1603  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1604  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1605  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1606  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1607  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1608  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1609  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1610  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1611  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1612  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1613  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1614  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1615  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1617  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1618  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1619  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1620  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1621  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1622  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1623  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1624  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1625  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1626  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1627  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1628  [ RunTime:0.0005s ]
+
+[ 2017-08-24T15:48:52+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-08-24T15:48:54+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 30,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007905s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007946s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-08-24T15:49:39+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 35,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009704s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-08-24T15:49:41+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/9.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 40,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008255s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-08-24T15:49:44+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1587
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1587 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-08-24T15:50:52+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1588
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1588 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008752s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008792s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-08-24T15:51:18+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 35,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008595s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008639s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-08-24T15:51:21+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1589
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1589 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008281s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-08-24T15:51:36+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1590
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1590 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008577s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-08-24T15:51:51+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1591
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1591 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008185s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008226s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-08-24T15:52:07+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1592
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1592 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007854s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-08-24T15:52:21+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1593
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1593 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008713s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-08-24T15:52:26+08:00 ] 117.185.27.113 /Admin/Trouble/sview/id/1591
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004237s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004302s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+
+[ 2017-08-24T15:52:32+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 30,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008230s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-08-24T15:52:38+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1594
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1594 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008316s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-08-24T15:52:52+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1595
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1595 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007822s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007861s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-08-24T15:53:01+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1596
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1596 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008134s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-08-24T15:53:11+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1597
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1597 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007893s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-08-24T15:53:28+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1598
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1598 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007840s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-08-24T15:53:40+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 25,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008145s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-08-24T15:53:42+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1599
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1599 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008109s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-08-24T15:54:02+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1600
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1600 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010790s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-08-24T15:54:17+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1601
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1601 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008048s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-08-24T15:54:33+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1602
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1602 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-08-24T15:54:42+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1603
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1603 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008228s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000593s ]
+
+[ 2017-08-24T15:54:56+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 20,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-08-24T15:54:58+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1604
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1604 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008083s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008123s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-08-24T15:55:04+08:00 ] 117.185.27.114 /Admin/Trouble/sview/id/1603
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004362s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004404s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+
+[ 2017-08-24T15:55:06+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1605
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1605 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008290s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008330s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-08-24T15:55:25+08:00 ] 117.185.27.114 /Admin/Trouble/sview/id/1604
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004197s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004239s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+
+[ 2017-08-24T15:55:31+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1606
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1606 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007909s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007947s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-08-24T15:55:40+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1607
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1607 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007776s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-08-24T15:55:55+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1608
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1608 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-08-24T15:57:04+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 15,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009510s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-08-24T15:57:06+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1609
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1609 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008552s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-08-24T15:57:44+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1610
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1610 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008242s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008281s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-08-24T15:58:27+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1611
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1611 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008327s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008367s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-08-24T15:58:56+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1612
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1612 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007952s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-08-24T15:59:50+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1613
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1613 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008152s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-08-24T16:00:10+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 10,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008619s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-08-24T16:00:12+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1614
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1614 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008161s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-08-24T16:00:32+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1615
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1615 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008148s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008185s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-08-24T16:00:43+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1616
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1616 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-08-24T16:01:34+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1617
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1617 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007928s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-08-24T16:01:47+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1618
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1618 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008550s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-08-24T16:02:03+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 5,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-08-24T16:02:05+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1619
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1619 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007751s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007788s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-08-24T16:02:13+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1620
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1620 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007847s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007908s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-08-24T16:02:34+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1621
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1621 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007849s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-08-24T16:02:48+08:00 ] 117.185.27.114 /Admin/Trouble/sview/id/1588
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+
+[ 2017-08-24T16:02:52+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1622
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1622 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-08-24T16:03:25+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1623
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1623 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-08-24T16:03:40+08:00 ] 123.66.35.39 /Admin/Trouble/quanbu/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `think_trouble` ORDER BY id desc LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008297s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-08-24T16:03:41+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1624
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1624 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007915s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-08-24T16:03:56+08:00 ] 117.185.27.113 /Admin/Trouble/sview/id/1592
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004460s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004502s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+
+[ 2017-08-24T16:04:00+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1625
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1625 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-08-24T16:04:11+08:00 ] 117.185.27.113 /Admin/Trouble/sview/id/1625
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005184s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+
+[ 2017-08-24T16:04:14+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1626
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1626 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008328s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008367s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-08-24T16:04:33+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1627
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1627 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008037s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-08-24T16:04:43+08:00 ] 123.66.35.39 /Admin/Trouble/sview/id/1628
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `think_trouble` WHERE `id` = 1628 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined variable: troublelistres /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/abc61647ab10f0eb9e0073a826d4e999.php 第 179 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008123s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008173s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-08-24T16:04:51+08:00 ] 117.185.27.114 /Admin/Trouble/sview/id/1598
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004215s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+
+[ 2017-08-24T16:04:52+08:00 ] 117.185.27.114 /Admin/Trouble/sview/id/1599
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000191s ]
+
+[ 2017-08-24T16:04:52+08:00 ] 117.185.27.113 /Admin/Trouble/sview/id/1597
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004288s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+
+[ 2017-08-24T16:05:29+08:00 ] 117.185.27.115 /Admin/Trouble/sview/id/1601
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004451s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+
+[ 2017-08-24T16:05:48+08:00 ] 101.226.125.100 /Admin/Trouble/sview/id/1610
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004374s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004415s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+
+[ 2017-08-24T16:08:12+08:00 ] 101.226.33.206 /Admin/Trouble/sview/id/1605
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004511s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+
+[ 2017-08-24T16:13:40+08:00 ] 117.185.27.114 /Admin/Trouble/sview/id/1618
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004217s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004278s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+
+[ 2017-08-24T16:15:59+08:00 ] 117.185.27.114 /Admin/Trouble/sview/id/1626
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+

@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>后台管理</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/main.css"/>
+    <script type="text/javascript" src="__PUBLIC__/js/libs/modernizr.min.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/js/Commonaxja.js"></script>    
+</head>
+<body>
+<!--引入公共head-->
+<include file="Public/head" /> 
+
+
+<div class="container clearfix">
+
+
+<!--引入公共sidebar-->
+<include file="Public/left" /> 
+
+    <div class="main-wrap">
+
+        <div class="crumb-wrap">
+            <div class="crumb-list"><i class="icon-font"></i><a href="/jscss/admin/design/">首页</a><span class="crumb-step">&gt;</span><a class="crumb-name" href="/jscss/admin/design/">用户组管理</a><span class="crumb-step">&gt;</span><span>新增用户组</span></div>
+        </div>
+        <div class="result-wrap">
+            <div class="result-content">
+                <form action="" method="post" id="myform" name="myform" enctype="multipart/form-data">
+                    <table class="insert-tab" width="100%">
+                    
+                        <tbody>
+                            <tr>
+                                <th><i class="require-red">*</i>用户组名称：</th>
+                                <td>
+                                    <input class="common-text required" id="name" name="name" size="50" value="" type="text">
+                                </td>
+                            </tr>
+                            
+                              <tr>
+                                <th><i class="require-red">*</i>授权查看：</th>
+                                <td>
+                                
+                                	<volist name="departmentres" id="vod">
+										<input type="checkbox" name="view" value="{$vod.id}" >{$vod.name}&nbsp; 
+									</volist>
+									
+                                </td>
+                            </tr>  
+                           
+
+                            
+                              <tr>
+                                <th><i class="require-red">*</i>授权操作：</th>
+                                <td>
+                                
+										<input type="checkbox" name="view" value="1" >医生设置&nbsp; 
+                                        <input type="checkbox" name="view" value="2" >科室设置&nbsp; 
+                                        <input type="checkbox" name="view" value="3" >渠道设置&nbsp;
+									    <input type="checkbox" name="view" value="4" >病种设置&nbsp;
+                                </td>
+                            </tr>          
+
+                            
+       
+                                                    
+                            <tr>
+                                <th></th>
+                                <td>
+                                    <input class="btn btn-primary btn6 mr10" value="提交" type="submit">
+                                    <input class="btn btn6" onclick="history.go(-1)" value="返回" type="button">
+                                </td>
+                            </tr>
+                        </tbody>
+                   
+                        
+                        </table>
+                        
+                </form>
+                <br/>
+                <div class="crumb-list"><i class="icon-font">&#xe021;</i><span class="crumb-name"> : 勾选某项该用户组的所有用户将拥有指定权限.</span></div>
+            </div>
+            
+        </div>
+        
+
+    </div>
+    <!--/main-->
+</div>
+</body>
+</html>

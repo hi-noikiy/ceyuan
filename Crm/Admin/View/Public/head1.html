@@ -1,0 +1,113 @@
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+    <div class="navbar-header" style="margin-right:2%;">
+    <!--<a class="navbar-brand" href="#">挂号系统</a>-->
+  	<img src="__PUBLIC__/img/logo.png" class="img-responsive" alt="Cinque Terre">
+    </div>
+    <div>
+        <ul class="nav navbar-nav navbar-left">
+        
+        
+                    <!--01_li-->
+                    <li id="home" class="active">
+                    	<a href="__MODULE__/User/">
+                    		<span class="glyphicon glyphicon-home"></span> 首页
+                    	</a>
+					</li>
+        
+        
+        
+        
+        
+            		
+                    <!--02_li-->
+                    <li id="patient"  class="dropdown">
+                    	<a href="#" class="dropdown-toggle" data-toggle="dropdown" >
+                    <span class="glyphicon glyphicon-plus"></span> 预约管理<b class="caret"></b>
+                    	</a>
+                    <ul class="dropdown-menu">
+                    	<li><a href="__MODULE__/Patient/Index">1.登记患者列表</a></li>
+                    	<li><a href="#">2.客服到诊明细</a></li>
+                    	<li><a href="#">3.患者就诊通知</a></li>
+                    	<li><a href="#">4.导出患者信息</a></li>
+                	</ul>
+                    </li>
+            
+
+
+
+            		<!--03_li-->
+            		<li id="datastatistics" class="dropdown">
+                    	<a href="#" class="class="dropdown-toggle" data-toggle="dropdown"">
+                    		<span class="glyphicon glyphicon-stats"></span> 数据统计<b class="caret"></b>
+                        </a>
+                    <ul class="dropdown-menu">
+                    	<li><a href="#">1.登记患者列表</a></li>
+                    	<li><a href="#">2.客服到诊明细</a></li>
+                    	<li><a href="#">3.导出患者信息</a></li>
+                	</ul>
+                    </li>
+
+
+
+
+
+            		<!--04_li-->
+            		<li id="sysset" class="dropdown">
+                    	<a href="#" class="class="dropdown-toggle" data-toggle="dropdown"">
+                    		<span class="glyphicon glyphicon-cog"></span> 系统设置<b class="caret"></b>
+                        </a>
+                    <ul class="dropdown-menu">
+                    	<li><a href="#">1.医生设置</a></li>
+                    	<li><a href="#">2.科室设置</a></li>
+                    	<li><a href="#">3.渠道设置</a></li>
+                    	<li><a href="#">4.病种设置</a></li>
+                    	<li><a href="#">5.短息模版</a></li>
+                	</ul>
+                    </li>
+                    
+                    
+                    
+                    
+                    
+            		<!--05_li-->
+            		<li id="myset" class="dropdown">
+                    	<a href="#" class="class="dropdown-toggle" data-toggle="dropdown"">
+                    		<span class="glyphicon glyphicon-user"></span> 个人设置<b class="caret"></b>
+                        </a>
+                    <ul class="dropdown-menu">
+                    	<li><a href="#">1.资料修改</a></li>
+                    	<li><a href="#">2.修改密码</a></li>
+                    	<li><a href="#">3.好友消息</a></li>
+                    	<li><a href="#">4.显示设置</a></li>
+                	</ul>
+                    </li>
+
+      			   </ul>
+        
+        
+            		<ul class="nav navbar-nav navbar-right">
+					<li>
+        				<a href="#">消息
+           		 			<span class="badge">3</span>
+       			 		</a>
+   			 		</li>
+					<li>
+               			 <a href="#">
+                    		 <span class="glyphicon glyphicon-user"></span> 
+                             您好:
+                             <?php 
+                             echo $_COOKIE['username'];
+                             ?>
+               			 </a>
+            		 </li>
+             		<li>
+                		 <a href="#">
+                     		<span class="glyphicon glyphicon-log-out"></span> 退出
+                		 </a>
+            		</li>
+        			</ul>
+				</div>
+    			</div>
+</nav>
+<!--Nav结束-->

@@ -1,0 +1,40 @@
+@charset "utf-8";
+body{background:url("../images/admin-bg.jpg") no-repeat;font-family:"Helvetica Neue","Hiragino Sans GB","Microsoft YaHei","\9ED1\4F53",Arial,sans-serif;color:#222;font-size:12px; height: 100%; width: 100%;-moz-background-size: 100% 100%; 
+-o-background-size: 100% 100%; 
+-webkit-background-size: 100% 100%; 
+background-size: 100% 100%; 
+-moz-border-image: url(./btn.png) 0; 
+background-repeat:no-repeat\9; 
+background-image:none\9; 
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/admin-bg.jpg', sizingMethod='scale')\9; min-height:1080px;}
+*{padding:0;margin:0}
+a{text-decoration:none}
+
+.top_div{background:url("../images/logo.png") no-repeat center 0;width:100%;height:400px}
+.login{background:rgba(255,255,255,.4);margin:-100px auto auto;border:1px solid #d5f2e5;border-image:none;width:400px;height:220px;text-align:center;border-radius:5px;box-shadow:0 0 10px #989898}
+.ipt{border:1px solid #d3d3d3;padding:10px 10px;width:340px;border-radius:4px;padding-left:35px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075);-webkit-transition:border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;-o-transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;background:rgba(255,255,255,0.5)}
+.ipt:focus{border-color:#66afe9;outline:0;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6)}
+.u_logo{background:url("../images/username.png") no-repeat;padding:10px 10px;position:absolute;top:39px;left:40px;background-size:20px}
+.p_logo{background:url("../images/password.png") no-repeat;padding:10px 10px;position:absolute;top:9px;left:40px;background-size:20px}
+.e_logo{background:url("../images/mail.png") no-repeat;padding:10px 10px;position:absolute;top:9px;left:40px;background-size:20px}
+.y_logo{background:url("../images/passwords.png") no-repeat;padding:10px 10px;position:absolute;top:12px;left:42px}
+.yzm{position:absolute;top:9px;right:40px}
+
+.tou{background:url("../images/tou.png") no-repeat;width:97px;height:92px;position:absolute;top:-87px;left:140px}
+.left_hand{background:url("../images/left_hand.png") no-repeat;width:32px;height:37px;position:absolute;top:-38px;left:150px}
+.right_hand{background:url("../images/right_hand.png") no-repeat;width:32px;height:37px;position:absolute;top:-38px;right:-64px}
+.initial_left_hand{background:url("../images/hand.png") no-repeat;width:30px;height:20px;position:absolute;top:-12px;left:100px}
+.initial_right_hand{background:url("../images/hand.png") no-repeat;width:30px;height:20px;position:absolute;top:-12px;right:-112px}
+.left_handing{background:url("../images/left-handing.png") no-repeat;width:30px;height:20px;position:absolute;top:-24px;left:139px}
+.right_handinging{background:url("../images/right_handing.png") no-repeat;width:30px;height:20px;position:absolute;top:-21px;left:210px}
+.btn{display:block;background:#fbb542;color:#fff;border:0;font-size:15px;height:38px;text-align:center;line-height:38px;border-radius:5px;text-shadow:0 1px 3px #91651c;margin:0 auto}
+.btn-dl{background:#44b549;text-shadow:0 1px 3px #1b6612; width:85%;}
+.btn-dl:hover { background:#30A635;}
+.btn-zc {background:#595F59; width: 100%; height:30px; line-height:30px;}
+.btn-mm {background:#595F59; width: 100%; height:30px; line-height:30px;}
+.btn-zc:hover { background:#399EDD;}
+.btn-mm:hover { background:#C75254;}
+
+.morebg {width:85%;  margin:15px auto; height:30px; }
+.more { width:100%; position:relative;}
+.more li { display:block; height:30px; width:47%; position: absolute;}

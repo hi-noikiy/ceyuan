@@ -1,0 +1,975 @@
+[ 2017-10-31T11:59:26+08:00 ] 113.97.57.197 /Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006527s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-10-31T11:59:32+08:00 ] 113.97.57.197 /Admin/Login/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: validate /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `think_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004384s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+
+[ 2017-10-31T11:59:37+08:00 ] 113.97.57.197 /Admin/Login/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `think_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004328s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004368s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-10-31T11:59:38+08:00 ] 113.97.57.197 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Use of undefined constant upload_max_filesize - assumed 'upload_max_filesize' /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/e0274a4b86e7ba5d066849c021969eb0.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010794s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-10-31T11:59:40+08:00 ] 113.97.57.197 /Admin/Trouble/daishenhe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` WHERE ( state=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( state=1 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008814s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-10-31T11:59:41+08:00 ] 113.97.57.197 /Admin/Trouble/daochu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005641s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-10-31T11:59:48+08:00 ] 113.97.57.197 /Admin/Trouble/daochu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`order`,`state`,`cishu`,`office`,`place`,`question`,`addtime`,`lasttime`,`adduser` FROM `think_trouble` WHERE `addtime` BETWEEN 1506787200 AND 1509379200  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined variable: question /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 433 行.
+SQL: SHOW COLUMNS FROM `think_troublelist` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1739  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1740  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1741  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1742  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1743  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1744  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1745  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1746  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1747  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1748  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1749  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1750  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1751  [ RunTime:0.0015s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1752  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1753  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1754  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1755  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1756  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1757  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1758  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1759  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1760  [ RunTime:0.0015s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1761  [ RunTime:0.0013s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1762  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1763  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1764  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1765  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1766  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1767  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1768  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1769  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1770  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1771  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1772  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1773  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1774  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1775  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1776  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1777  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1778  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1779  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1780  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1781  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1782  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1783  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1784  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1785  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1786  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1787  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1788  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1789  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1790  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1791  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1792  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1793  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1794  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1795  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1796  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1797  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1798  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1799  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1800  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1801  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1802  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1803  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1804  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1805  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1806  [ RunTime:0.0013s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1807  [ RunTime:0.0012s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1808  [ RunTime:0.0012s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1809  [ RunTime:0.0012s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1810  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1811  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1812  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1813  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1814  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1815  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1816  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1817  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1818  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1819  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1820  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1821  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1822  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1823  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1824  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1825  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1826  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1827  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1828  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1829  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1830  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1831  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1832  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1833  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1834  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1835  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1836  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1837  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1838  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1839  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1840  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 479 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1841  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1842  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1843  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1844  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1845  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1846  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1847  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 473 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1848  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1849  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1850  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1851  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1852  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1853  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1854  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1855  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1856  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1857  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1858  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1859  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1860  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1861  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1862  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1863  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1864  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1865  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1866  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1867  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1868  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1869  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1870  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1871  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1872  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1873  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1874  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1875  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1876  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1877  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1878  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1879  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1880  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1881  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1882  [ RunTime:0.0011s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1883  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1884  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1885  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1886  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1887  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1888  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1889  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1890  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1891  [ RunTime:0.0011s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1892  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1893  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1894  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1895  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1896  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1897  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1898  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1899  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1900  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1901  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1902  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1903  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1904  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1905  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1906  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1907  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1908  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1909  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1910  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1911  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1912  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1913  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1914  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1915  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1916  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1917  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1918  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1919  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1920  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1921  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1922  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1923  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1924  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1925  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1926  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1927  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1928  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1929  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1930  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1931  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1932  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1933  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1934  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1935  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1936  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1937  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1938  [ RunTime:0.0011s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1939  [ RunTime:0.0011s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1940  [ RunTime:0.0012s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1941  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1942  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1943  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1944  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1945  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1946  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1947  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1948  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1949  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1950  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1951  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1952  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1953  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1954  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1955  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1956  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1957  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1958  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1959  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1960  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1961  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1962  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1963  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1964  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1965  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1966  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1967  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1968  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1969  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1970  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1971  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1972  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1973  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1974  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1975  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1976  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1977  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1978  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1979  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1980  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1981  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1982  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1983  [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant remark - assumed 'remark' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 469 行.
+NOTIC: [8] Use of undefined constant yuanyin - assumed 'yuanyin' /data/wwwroot/ceyuan1/Crm/Admin/Controller/TroubleController.class.php 第 475 行.
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1984  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1985  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1986  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `think_troublelist` WHERE `uid` = 1987  [ RunTime:0.0007s ]
+
+[ 2017-10-31T12:09:29+08:00 ] 113.97.57.197 /Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004738s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004778s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-10-31T12:09:33+08:00 ] 113.97.57.197 /Admin/Login/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: validate /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `think_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+
+[ 2017-10-31T12:09:37+08:00 ] 113.97.57.197 /Admin/Login/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /data/wwwroot/ceyuan1/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `think_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-10-31T12:09:39+08:00 ] 113.97.57.197 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005603s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Use of undefined constant upload_max_filesize - assumed 'upload_max_filesize' /data/wwwroot/ceyuan1/Crm/Runtime/Cache/Admin/e0274a4b86e7ba5d066849c021969eb0.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005999s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006036s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-10-31T12:09:40+08:00 ] 113.97.57.197 /Admin/Trouble/daishenhe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `think_office` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `think_office`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `think_trouble` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_trouble` WHERE ( state=1 ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT * FROM `think_trouble` WHERE ( state=1 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+

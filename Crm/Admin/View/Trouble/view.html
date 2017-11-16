@@ -1,0 +1,174 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>后台管理</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/main.css"/>
+    <script type="text/javascript" src="__PUBLIC__/js/libs/modernizr.min.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/js/Commonaxja.js"></script>
+
+    <style>
+        td { position: relative;
+            overflow: hidden; }
+        .rotate { display: none; }
+        .rotate-wrap p { box-sizing: border-box; width: 50%; float: left; border-right: 1px solid #fff;
+            cursor: pointer;}
+        .rotate-wrap { position: absolute; bottom: 6px; left: 50%; margin-left: -40%;width: 80%; height: 40px; font-size: 12px; line-height: 40px; text-align: center; background-color: rgba(0, 0, 0, .5); color: #fff; }
+    </style>
+</head>
+<body>
+<!--引入公共head-->
+<include file="Public/head" /> 
+
+
+<div class="container clearfix">
+
+
+<!--引入公共sidebar-->
+<include file="Public/left" /> 
+
+    <div class="main-wrap">
+
+        <div class="crumb-wrap">
+            <div class="crumb-list"><i class="icon-font"></i><a href="/jscss/admin/design/">首页</a><span class="crumb-step">&gt;</span><a class="crumb-name" href="">待整改列表</a><span class="crumb-step">&gt;</span><span>查看待整改详细内容</span></div>
+        </div>
+        <div class="result-wrap">
+            <div class="result-content">
+                <form action="" method="post" id="myform" name="myform" enctype="multipart/form-data">
+                    <input type="hidden" name="id" value="<{$troubleres.id}>">
+                    <table class="insert-tab" width="100%">
+                    
+                        <tbody>
+                            <tr>
+                                <th><i class="require-red"></i>问题编号：</th>
+                                <td>
+                                    <input class="common-text required" id="name" name="name" size="50" readonly  value="<{$troubleres.order}>" type="text">
+                                </td>
+                            </tr>
+                            
+                              <tr>
+                                <th><i class="require-red"></i>办事处：</th>
+                                <td>
+<input class="common-text required" id="name" name="name" size="50" readonly  value="<{$troubleres.office}>" type="text">
+                                </td>
+                            </tr>  
+
+                              <tr width="100%">
+                                <th width="10%"><i class="require-red"></i>存在问题：</th>
+                                <td width="90%">
+								
+                                
+                                
+          <?php 
+        
+        $str=$troubleres['question'];
+        
+        $newstr = substr($str,0,strlen($str)-1); 
+        
+
+        
+        $hello = explode('#',$newstr);
+        
+        
+        for($i=0;$i<count($hello);$i++){
+        ?>
+		
+        问题<?php echo $i+1;  ?>：<?php   echo $hello[$i].'<br/>';     ?>
+        
+        <?php
+        }
+        ?>                     
+                                </td>
+                            </tr> 
+
+                              <tr>
+                                <th><i class="require-red"></i>整改次数：</th>
+                                <td>
+<input class="common-text required" id="name" name="name" size="50" readonly  value="<{$troubleres.cishu}>" type="text">
+                                </td>
+                            </tr>                         
+       
+                              <tr>
+                                <th><i class="require-red"></i>创建用户：</th>
+                                <td>
+<input class="common-text required" id="name" name="name" size="50" readonly  value="<{$troubleres.adduser}>" type="text">
+                                </td>
+                            </tr>                              
+                                 
+                                 
+                              <tr>
+                                <th><i class="require-red"></i>创建时间：</th>
+                                <td>
+<input class="common-text required" id="name" name="name" size="50" readonly  value="<?php echo   date('Y-m-d',$troubleres['addtime'])     ?>" type="text">
+                                </td>
+                            </tr>  
+                                
+                                
+                                
+                                
+                              <tr>
+                                <th><i class="require-red"></i>整改前的图片：</th>
+                                <td>
+									<div class="tab-img" style="position: relative; width: 440px"><img style="width:440px;" src="<{$troubleres.firstimg}>"></div>
+                                </td>
+                            </tr>   
+                                                    
+                            <tr>
+                                <th></th>
+                                <td>
+                                    
+                                    <input class="btn btn6" onclick="history.go(-1)" value="返回" type="button">
+                                </td>
+                            </tr>
+                        </tbody>
+                   
+                        
+                        </table>
+                        
+                </form>
+                <br/>
+                <div class="crumb-list"><i class="icon-font">&#xe021;</i><span class="crumb-name"> : 当前的状态是待整改,因此只能查看和浏览.</span></div>
+            </div>
+            
+        </div>
+        
+
+    </div>
+    <!--/main-->
+</div>
+
+<script>
+    var html = '<div class="rotate-wrap"><p class="ni">逆时针</p><p class="shun">顺时针</p></div>';
+    var imgs = document.getElementsByTagName('img');
+    var speed = 90;
+    for (var i=0; i<imgs.length; i++) {
+        var rotate = document.createElement('div');
+        rotate.className = 'rotate';
+        rotate.innerHTML = html;
+        imgs[i].parentNode.appendChild(rotate);
+        imgs[i].parentNode.onmouseenter = function (e) {
+            var ele = this.getElementsByClassName('rotate')[0];
+            ele.style.display = 'block';
+        };
+        imgs[i].parentNode.onmouseleave = function (e) {
+            var ele = this.getElementsByClassName('rotate')[0];
+            ele.style.display = 'none';
+        };
+        var shun =  imgs[i].parentNode.querySelector('.shun');
+        var ni =  imgs[i].parentNode.querySelector('.ni');
+
+        shun.onclick = function (e) {
+            var img = this.parentNode.parentNode.parentNode.querySelector('img');
+            speed += 90;
+            img.style.webkitTransform = 'rotate('+ speed +'deg)';
+        }
+        ni.onclick = function (e) {
+            var img = this.parentNode.parentNode.parentNode.querySelector('img');
+            speed -= 90;
+            img.style.webkitTransform = 'rotate('+ speed +'deg)';
+        }
+    }
+</script>
+</body>
+</html>

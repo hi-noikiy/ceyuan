@@ -1,0 +1,31 @@
+<div class="login">
+<div style="width: 165px; height: 96px; position: absolute;z-index: 5;">
+<div class="tou"></div>
+<div class="left_hand" id="left_hand" style="left: 150px; top: -38px;"></div>
+<div class="right_hand" id="right_hand" style="right: -64px; top: -38px;"></div></div>
+<form name="Login" action="__CONTROLLER__/sendmail/" method="post">  
+<p style="padding: 30px 0px 10px; position: relative;z-index:9"><span class="u_logo"></span>
+                <input type="hidden" name="ActionStatus" value="login">
+                <input onfocus="this.select()" name="username" class="ipt" type="text" placeholder="请输入用户名" value="">
+    </p>
+<p style="position: relative;z-index:10"><span class="e_logo"></span>
+<input onfocus="this.select()" class="ipt" id="password" type="email" name="email" placeholder="请输入邮箱地址" value="">
+  </p>
+  
+  
+  <p style="position: relative; margin-top:10px;"><span class="y_logo"></span>
+  <input onfocus="this.select()" size="4" name="verify" class="ipt" type="text" placeholder="请输入验证码" value="">
+<span class="yzm"><img src="__CONTROLLER__/verify?" onClick="this.src='__CONTROLLER__/verify?'+Math.random()"  alt="验证码"> </span> 
+  </p>
+<div style="height: 50px; line-height: 50px; margin-top: 20px; ">
+<p><input type="submit" name="bt" value="找回密码" class="btn btn-dl"></p>
+
+<div class="morebg">
+<ul class="more">
+<li style="top:0; left:0"><a href="__CONTROLLER__/index/action/login"><input class="btn btn-zc" type="button" value="登录用户"></a></li>
+<li style="top:0; right:0"><a href="__CONTROLLER__/index/action/sendmail"><input class="btn btn-mm" type="button"  value="忘记密码"></a></li>
+</ul>
+</div>
+
+
+</div></form></div>
